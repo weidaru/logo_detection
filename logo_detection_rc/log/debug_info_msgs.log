@@ -1,0 +1,144 @@
+04/23/13 06:06:34,024.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:88
+-Read [enableDebug = 0] from./config/config.ini
+
+04/23/13 06:06:34,025.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:88
+-Read [logoletSize = 12] from./config/config.ini
+
+04/23/13 06:06:34,026.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:88
+-Read [mode = 0] from./config/config.ini
+
+04/23/13 06:06:34,026.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:77
+-Read [logoimgs_directory = ./data/media/imgs/logos/] from./config/config.ini
+
+04/23/13 06:06:34,026.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:77
+-Read [nonlogo_video_directory = ./data/media/videos/nonlogo_video/] from./config/config.ini
+
+04/23/13 06:06:34,027.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:77
+-Read [nonlogo_image_directory = ./data/media/imgs/nonlogo/] from./config/config.ini
+
+04/23/13 06:06:34,027.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:77
+-Read [logobase_directory = ./data/media/imgs/logobase/] from./config/config.ini
+
+04/23/13 06:06:34,028.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:88
+-Read [enableDfDetect = 1] from./config/config.ini
+
+04/23/13 06:06:34,028.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:88
+-Read [enableFeatureDetect = 1] from./config/config.ini
+
+04/23/13 06:06:34,029.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:77
+-Read [inputFile = ./data/test3.avi] from./config/config.ini
+
+04/23/13 06:06:34,036.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:99
+-Read [dfThreshold = 55] from./config/config.ini
+
+04/23/13 06:06:34,037.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:88
+-Read [max_dfIteration = 100] from./config/config.ini
+
+04/23/13 06:06:34,038.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:88
+-Read [maxFrameSearch = 30] from./config/config.ini
+
+04/23/13 06:06:34,038.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:88
+-Read [rectLineWidth = 2] from./config/config.ini
+
+04/23/13 06:06:34,039.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:88
+-Read [maxMatchIteration = 30] from./config/config.ini
+
+04/23/13 06:06:34,040.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:88
+-Read [useAdvancedLogoMatch = 1] from./config/config.ini
+
+04/23/13 06:06:34,040.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\BasicLogoDetector.cpp:95
+-Start detecting...
+
+04/23/13 06:06:34,040.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\DfDetector.cpp:35
+-Start frame difference based detection, it may take a couple of seconds, please be patient...
+
+04/23/13 06:06:34,278.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\VideoFileReader.cpp:30
+-File ./data/test3.avi ends.
+
+04/23/13 06:06:34,279.000 [5084] DEBUG
+J:\graduation_proj\logo_detection\scr\DfDetector.cpp:109
+-Total 631 logolets need processing.
+
+04/23/13 06:06:34,280.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\DfDetector.cpp:86
+-Frame difference based detection complete!Total 0 logo detected.
+
+04/23/13 06:06:34,281.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:77
+-Read [neuralNetworkFile = ./data/neural_network3.data] from./config/config.ini
+
+04/23/13 06:06:34,281.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\BayersClassifier.cpp:106
+-Load neural network from file ./data/neural_network3.data
+
+04/23/13 06:06:34,321.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\FeatureDetector.cpp:24
+-Start feature based detection... 
+
+04/23/13 06:06:34,785.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\VideoFileReader.cpp:30
+-File ./data/test3.avi ends.
+
+04/23/13 06:06:34,787.000 [5084] DEBUG
+J:\graduation_proj\logo_detection\scr\FeatureDetector.cpp:97
+-Total 5 logolets need processing.
+
+04/23/13 06:06:34,787.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\FeatureDetector.cpp:156
+-Feature based detection complete!Total 1 logo detected.
+
+04/23/13 06:06:34,788.000 [5084] DEBUG
+J:\graduation_proj\logo_detection\scr\FeatureDetector.cpp:161
+-Logo0: x=36	y=24	width=36	height=36
+
+04/23/13 06:06:34,788.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\BasicLogoDetector.cpp:133
+-Start advanced matching...
+
+04/23/13 06:06:34,789.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:99
+-Read [matchThreshold = 0.2] from./config/config.ini
+
+04/23/13 06:06:34,790.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:99
+-Read [matchDistanceThreshold = 28] from./config/config.ini
+
+04/23/13 06:06:34,791.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\utils.cpp:77
+-Read [logobase_directory = ./data/media/imgs/logobase/] from./config/config.ini
+
+04/23/13 06:06:34,795.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\BasicLogoDetector.cpp:155
+-Totally 0 logos adding to LogoBase.
+
+04/23/13 06:06:34,826.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\VideoFileReader.cpp:30
+-File ./data/test3.avi ends.
+
+04/23/13 06:06:34,827.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\BasicLogoDetector.cpp:199
+-There is no match of logo locating at (36, 24) in our logo base.
+
+04/23/13 06:06:34,827.000 [5084] INFO 
+J:\graduation_proj\logo_detection\scr\BasicLogoDetector.cpp:201
+-Match complete!
+

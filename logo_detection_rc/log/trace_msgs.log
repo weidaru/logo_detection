@@ -1,0 +1,20 @@
+04/23/13 06:06:34,036.000 [5084] TRACE
+J:\graduation_proj\logo_detection\scr\DfDetector.cpp:198
+-dfThreshold set to new value: 55
+
+04/23/13 06:06:34,037.000 [5084] TRACE
+J:\graduation_proj\logo_detection\scr\DfDetector.cpp:210
+-max_dfIteration set to new value: 100
+
+04/23/13 06:06:34,038.000 [5084] TRACE
+J:\graduation_proj\logo_detection\scr\FeatureDetector.cpp:187
+-maxFrameSearch set to new value: 30
+
+04/23/13 06:06:34,039.000 [5084] TRACE
+J:\graduation_proj\logo_detection\scr\BasicLogoDetector.cpp:125
+-rectLineWidth set to new value: 2
+
+04/23/13 06:06:34,790.000 [5084] TRACE
+J:\graduation_proj\logo_detection\scr\LogoMatch.cpp:68
+-MatchThreshold set to new value: 0.2
+

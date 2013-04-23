@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include\AdvancedLogoMatch.h" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\BasicLogoDetector.h" open="1" top="0" tabpos="10">
+		<Cursor position="629" topLine="0" />
+	</File>
+	<File name="include\BayersClassifier.h" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\DfDetector.h" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\FeatureDetector.h" open="0" top="0" tabpos="12">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\InputData.h" open="0" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\LogoDetector.h" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\LogoMatch.h" open="0" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\LogoletSimulator.h" open="0" top="0" tabpos="11">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\VideoFileReader.h" open="0" top="0" tabpos="12">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\VideoReader.h" open="0" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\dataEntry.h" open="0" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\globals.h" open="0" top="0" tabpos="13">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\neuralNetwork.h" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\pHash.h" open="1" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\utils.h" open="0" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="scr\AdvancedLogoMatch.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="scr\BasicLogoDetector.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="2901" topLine="67" />
+	</File>
+	<File name="scr\BayersClassifier.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="scr\DfDetector.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="scr\FeatureDetector.cpp" open="1" top="1" tabpos="5">
+		<Cursor position="285" topLine="0" />
+	</File>
+	<File name="scr\LogoDetector.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="scr\LogoMatch.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="scr\LogoletSimulator.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="scr\VideoFileReader.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="scr\globals.cpp" open="0" top="0" tabpos="14">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="scr\main.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="2074" topLine="27" />
+	</File>
+	<File name="scr\pHash.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="scr\utils.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="177" topLine="0" />
+	</File>
+	<File name="test\test_LogoletSimulator.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="test\test_utils.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

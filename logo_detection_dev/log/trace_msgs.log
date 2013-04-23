@@ -1,0 +1,20 @@
+04/23/13 06:14:21,152.000 [3952] TRACE
+D:\cppWorkspace\logo_detection\logo_detection_dev\scr\DfDetector.cpp:198
+-dfThreshold set to new value: 55
+
+04/23/13 06:14:21,152.000 [3952] TRACE
+D:\cppWorkspace\logo_detection\logo_detection_dev\scr\DfDetector.cpp:210
+-max_dfIteration set to new value: 100
+
+04/23/13 06:14:21,153.000 [3952] TRACE
+D:\cppWorkspace\logo_detection\logo_detection_dev\scr\FeatureDetector.cpp:187
+-maxFrameSearch set to new value: 30
+
+04/23/13 06:14:21,155.000 [3952] TRACE
+D:\cppWorkspace\logo_detection\logo_detection_dev\scr\BasicLogoDetector.cpp:125
+-rectLineWidth set to new value: 2
+
+04/23/13 06:14:21,927.000 [3952] TRACE
+D:\cppWorkspace\logo_detection\logo_detection_dev\scr\LogoMatch.cpp:68
+-MatchThreshold set to new value: 0.2
+

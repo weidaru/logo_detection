@@ -1,0 +1,5255 @@
+# depslib dependency file v1.0
+1332838809 source:c:\work\logo_detection\main.cpp
+	<log4cplus/configurator.h>
+	<log4cplus/logger.h>
+	<windows.h>
+	<stdlib.h>
+	<UnitTest++.h>
+	"BasicLogoDetector.h"
+
+1275037612 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\configurator.h
+	<log4cplus/config.hxx>
+	<log4cplus/appender.h>
+	<log4cplus/hierarchy.h>
+	<log4cplus/logger.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<map>
+
+1250585962 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\config.hxx
+	<log4cplus/config/win32.h>
+	<log4cplus/config/macosx.h>
+	<log4cplus/config/defines.hxx>
+	<log4cplus/helpers/thread-config.h>
+
+1288721918 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\config\win32.h
+	<windows.h>
+
+1229458614 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\config\macosx.h
+
+1321099424 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\config\defines.hxx
+
+1250558510 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\helpers\thread-config.h
+	<pthread.h>
+	<semaphore.h>
+	<windows.h>
+
+1275037612 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\appender.h
+	<log4cplus/config.hxx>
+	<log4cplus/layout.h>
+	<log4cplus/loglevel.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/spi/filter.h>
+	<memory>
+
+1280252746 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\layout.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/streams.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/helpers/timehelper.h>
+	<log4cplus/spi/loggingevent.h>
+	<vector>
+
+1275037612 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\loglevel.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<vector>
+
+1250558510 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\tstring.h
+	<log4cplus/config.hxx>
+	<string>
+	<locale>
+
+1250558510 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\streams.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<iostream>
+	<sstream>
+
+1250558510 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\helpers\logloguser.h
+	<log4cplus/config.hxx>
+
+1250558510 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\helpers\property.h
+	<log4cplus/config.hxx>
+	<log4cplus/streams.h>
+	<log4cplus/tstring.h>
+	<map>
+	<vector>
+
+1277223912 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\helpers\timehelper.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<time.h>
+	<ctime>
+
+1251219342 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\spi\loggingevent.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/ndc.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/timehelper.h>
+	<log4cplus/helpers/threads.h>
+
+1291747444 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\ndc.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<map>
+	<stack>
+
+1278930460 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\helpers\threads.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+
+1260386836 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\helpers\pointer.h
+	<log4cplus/config.hxx>
+	<memory>
+	<stdexcept>
+	<string>
+	<algorithm>
+	<cassert>
+
+1275037612 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\spi\filter.h
+	<log4cplus/config.hxx>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/spi/loggingevent.h>
+
+1250558510 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\hierarchy.h
+	<log4cplus/config.hxx>
+	<log4cplus/logger.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/threads.h>
+	<map>
+	<memory>
+	<vector>
+
+1275037612 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\logger.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/tstring.h>
+	<log4cplus/spi/appenderattachable.h>
+	<log4cplus/spi/loggerfactory.h>
+	<vector>
+	<log4cplus/loggingmacros.h>
+
+1250558510 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\spi\appenderattachable.h
+	<log4cplus/config.hxx>
+	<log4cplus/appender.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+	<vector>
+
+1250558510 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\spi\loggerfactory.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+
+1253535442 c:\work\logo_detection\vendor\log4cplus\include\log4cplus\loggingmacros.h
+	<log4cplus/config.hxx>
+	<log4cplus/streams.h>
+
+1313155320 c:\work\logo_detection\vendor\opencv\include\opencv\cv.h
+	"opencv2/core/core_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/video/tracking.hpp"
+	"opencv2/features2d/features2d.hpp"
+	"opencv2/flann/flann.hpp"
+	"opencv2/calib3d/calib3d.hpp"
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/legacy/compat.hpp"
+	"opencv2/core/internal.hpp"
+
+1313156036 c:\work\logo_detection\vendor\opencv\include\opencv2\core\core_c.h
+	"opencv2/core/types_c.h"
+
+1313156036 c:\work\logo_detection\vendor\opencv\include\opencv2\core\types_c.h
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	<stdint.h>
+	<intrin.h>
+	<emmintrin.h>
+	<fastmath.h>
+	<math.h>
+	<ipl.h>
+	<ipl/ipl.h>
+
+1313447658 c:\work\logo_detection\vendor\opencv\include\opencv2\core\core.hpp
+	"opencv2/core/types_c.h"
+	"opencv2/core/version.hpp"
+	<limits.h>
+	<algorithm>
+	<cmath>
+	<cstddef>
+	<complex>
+	<map>
+	<new>
+	<string>
+	<vector>
+	"opencv2/core/operations.hpp"
+	"opencv2/core/mat.hpp"
+
+1313156036 c:\work\logo_detection\vendor\opencv\include\opencv2\core\version.hpp
+
+1313447658 c:\work\logo_detection\vendor\opencv\include\opencv2\core\operations.hpp
+	<string.h>
+	<limits.h>
+	<ext/atomicity.h>
+	<bits/atomicity.h>
+	<intrin.h>
+	<limits>
+
+1313156036 c:\work\logo_detection\vendor\opencv\include\opencv2\core\mat.hpp
+	<limits.h>
+	<string.h>
+
+1313156060 c:\work\logo_detection\vendor\opencv\include\opencv2\imgproc\imgproc_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+
+1313156060 c:\work\logo_detection\vendor\opencv\include\opencv2\imgproc\types_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+
+1313156060 c:\work\logo_detection\vendor\opencv\include\opencv2\imgproc\imgproc.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/types_c.h"
+
+1313156088 c:\work\logo_detection\vendor\opencv\include\opencv2\video\tracking.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+
+1313156088 c:\work\logo_detection\vendor\opencv\include\opencv2\features2d\features2d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+	<limits>
+
+1313355944 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\miniflann.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/defines.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\defines.h
+	"config.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\config.h
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\flann.hpp
+	"opencv2/core/types_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/flann/flann_base.hpp"
+	"opencv2/flann/miniflann.hpp"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\flann_base.hpp
+	<vector>
+	<string>
+	<cassert>
+	<cstdio>
+	"general.h"
+	"matrix.h"
+	"params.h"
+	"saving.h"
+	"all_indices.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\general.h
+	"defines.h"
+	<stdexcept>
+	<cassert>
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\matrix.h
+	<stdio.h>
+	"general.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\params.h
+	"any.h"
+	"general.h"
+	<iostream>
+	<map>
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\any.h
+	<stdexcept>
+	<ostream>
+	<typeinfo>
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\saving.h
+	<cstring>
+	<vector>
+	"general.h"
+	"nn_index.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\nn_index.h
+	<string>
+	"general.h"
+	"matrix.h"
+	"result_set.h"
+	"params.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\result_set.h
+	<algorithm>
+	<cstring>
+	<iostream>
+	<limits>
+	<set>
+	<vector>
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\all_indices.h
+	"general.h"
+	"nn_index.h"
+	"kdtree_index.h"
+	"kdtree_single_index.h"
+	"kmeans_index.h"
+	"composite_index.h"
+	"linear_index.h"
+	"hierarchical_clustering_index.h"
+	"lsh_index.h"
+	"autotuned_index.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\kdtree_index.h
+	<algorithm>
+	<map>
+	<cassert>
+	<cstring>
+	"general.h"
+	"nn_index.h"
+	"dynamic_bitset.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\dynamic_bitset.h
+	<boost/dynamic_bitset.hpp>
+	<limits.h>
+	"dist.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\dist.h
+	<cmath>
+	<cstdlib>
+	<string.h>
+	<stdint.h>
+	"defines.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\heap.h
+	<algorithm>
+	<vector>
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\allocator.h
+	<stdlib.h>
+	<stdio.h>
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\random.h
+	<algorithm>
+	<cstdlib>
+	<vector>
+	"general.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\kdtree_single_index.h
+	<algorithm>
+	<map>
+	<cassert>
+	<cstring>
+	"general.h"
+	"nn_index.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\kmeans_index.h
+	<algorithm>
+	<string>
+	<map>
+	<cassert>
+	<limits>
+	<cmath>
+	"general.h"
+	"nn_index.h"
+	"dist.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+	"logger.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\logger.h
+	<stdio.h>
+	<stdarg.h>
+	"defines.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\composite_index.h
+	"general.h"
+	"nn_index.h"
+	"kdtree_index.h"
+	"kmeans_index.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\linear_index.h
+	"general.h"
+	"nn_index.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\hierarchical_clustering_index.h
+	<algorithm>
+	<string>
+	<map>
+	<cassert>
+	<limits>
+	<cmath>
+	"general.h"
+	"nn_index.h"
+	"dist.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\lsh_index.h
+	<algorithm>
+	<cassert>
+	<cstring>
+	<map>
+	<vector>
+	"general.h"
+	"nn_index.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"lsh_table.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\lsh_table.h
+	<algorithm>
+	<iostream>
+	<iomanip>
+	<limits.h>
+	<unordered_map>
+	<map>
+	<math.h>
+	<stddef.h>
+	"dynamic_bitset.h"
+	"matrix.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\autotuned_index.h
+	"general.h"
+	"nn_index.h"
+	"ground_truth.h"
+	"index_testing.h"
+	"sampling.h"
+	"kdtree_index.h"
+	"kdtree_single_index.h"
+	"kmeans_index.h"
+	"composite_index.h"
+	"linear_index.h"
+	"logger.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\ground_truth.h
+	"dist.h"
+	"matrix.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\index_testing.h
+	<cstring>
+	<cassert>
+	<cmath>
+	"matrix.h"
+	"nn_index.h"
+	"result_set.h"
+	"logger.h"
+	"timer.h"
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\timer.h
+	<time.h>
+
+1313156056 c:\work\logo_detection\vendor\opencv\include\opencv2\flann\sampling.h
+	"matrix.h"
+	"random.h"
+
+1313156070 c:\work\logo_detection\vendor\opencv\include\opencv2\calib3d\calib3d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+
+1313355946 c:\work\logo_detection\vendor\opencv\include\opencv2\objdetect\objdetect.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+	<deque>
+
+1313156076 c:\work\logo_detection\vendor\opencv\include\opencv2\legacy\compat.hpp
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+	<math.h>
+	<string.h>
+
+1313532340 c:\work\logo_detection\vendor\opencv\include\opencv2\core\internal.hpp
+	<vector>
+	<windows.h>
+	<pthread.h>
+	<sys/mman.h>
+	"ipp.h"
+	"emmintrin.h"
+	"pmmintrin.h"
+	"arm_neon.h"
+	"tbb/tbb_stddef.h"
+	"tbb/tbb.h"
+	"tbb/task.h"
+	<Eigen/Core>
+	"opencv2/core/eigen.hpp"
+	"threading_framework.hpp"
+	<malloc.h>
+	<alloca.h>
+	<stdlib.h>
+
+1313156036 c:\work\logo_detection\vendor\opencv\include\opencv2\core\eigen.hpp
+	"cxcore.h"
+
+1313155318 c:\work\logo_detection\vendor\opencv\include\opencv\highgui.h
+	"opencv2/core/core_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui_c.h"
+	"opencv2/highgui/highgui.hpp"
+
+1313156006 c:\work\logo_detection\vendor\opencv\include\opencv2\highgui\highgui_c.h
+	"opencv2/core/core_c.h"
+
+1313156006 c:\work\logo_detection\vendor\opencv\include\opencv2\highgui\highgui.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui_c.h"
+
+1188391710 c:\work\logo_detection\vendor\unittest++\scr\unittest++.h
+	"Config.h"
+	"Test.h"
+	"TestList.h"
+	"TestSuite.h"
+	"TestResults.h"
+	"TestMacros.h"
+	"CheckMacros.h"
+	"TestRunner.h"
+	"TimeConstraint.h"
+
+1225399116 c:\work\logo_detection\vendor\unittest++\scr\config.h
+
+1225312688 c:\work\logo_detection\vendor\unittest++\scr\test.h
+	"TestDetails.h"
+
+1174340056 c:\work\logo_detection\vendor\unittest++\scr\testdetails.h
+
+1180492958 c:\work\logo_detection\vendor\unittest++\scr\testlist.h
+
+1174340056 c:\work\logo_detection\vendor\unittest++\scr\testsuite.h
+
+1174340056 c:\work\logo_detection\vendor\unittest++\scr\testresults.h
+
+1225416426 c:\work\logo_detection\vendor\unittest++\scr\testmacros.h
+	"Config.h"
+	"ExecuteTest.h"
+	"AssertException.h"
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"Posix/SignalTranslator.h"
+
+1225312688 c:\work\logo_detection\vendor\unittest++\scr\executetest.h
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"AssertException.h"
+	"CurrentTest.h"
+	"Posix/SignalTranslator.h"
+
+1174340056 c:\work\logo_detection\vendor\unittest++\scr\memoryoutstream.h
+	"Config.h"
+	<sstream>
+	<cstddef>
+
+1174340056 c:\work\logo_detection\vendor\unittest++\scr\assertexception.h
+	<exception>
+
+1225312688 c:\work\logo_detection\vendor\unittest++\scr\currenttest.h
+
+1224709002 c:\work\logo_detection\vendor\unittest++\scr\posix\signaltranslator.h
+	<setjmp.h>
+	<signal.h>
+
+1225312688 c:\work\logo_detection\vendor\unittest++\scr\checkmacros.h
+	"Checks.h"
+	"AssertException.h"
+	"MemoryOutStream.h"
+	"TestDetails.h"
+	"CurrentTest.h"
+
+1225398462 c:\work\logo_detection\vendor\unittest++\scr\checks.h
+	"Config.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+
+1225312688 c:\work\logo_detection\vendor\unittest++\scr\testrunner.h
+	"Test.h"
+	"TestList.h"
+	"CurrentTest.h"
+
+1225312688 c:\work\logo_detection\vendor\unittest++\scr\timeconstraint.h
+	"TimeHelpers.h"
+
+1174340056 c:\work\logo_detection\vendor\unittest++\scr\timehelpers.h
+	"Config.h"
+	"Posix/TimeHelpers.h"
+	"Win32/TimeHelpers.h"
+
+1174340056 c:\work\logo_detection\vendor\unittest++\scr\posix\timehelpers.h
+	<sys/time.h>
+
+1225399116 c:\work\logo_detection\vendor\unittest++\scr\win32\timehelpers.h
+	"../Config.h"
+
+1331011688 source:c:\work\logo_detection\test\unittest_demo.cpp
+	"UnitTest++.h"
+
+1335187851 source:c:\work\logo_detection\scr\videofilereader.cpp
+	"VideoFileReader.h"
+	<log4cplus/logger.h>
+	<opencv/cv.h>
+	<string>
+
+1334232392 c:\work\logo_detection\include\videofilereader.h
+	"VideoReader.h"
+	<opencv/highgui.h>
+	<iostream>
+	<string>
+
+1334232709 c:\work\logo_detection\include\videoreader.h
+	<string>
+
+1335191135 source:c:\work\logo_detection\scr\basiclogodetector.cpp
+	"BasicLogoDetector.h"
+	"VideoFileReader.h"
+	"LogoMatch.h"
+	"AdvancedLogoMatch.h"
+	"utils.h"
+	"globals.h"
+	<opencv/cv.h>
+	<log4cplus/logger.h>
+	<cmath>
+	<fstream>
+	<string>
+	<vector>
+	<map>
+
+1335168776 c:\work\logo_detection\include\basiclogodetector.h
+	"LogoDetector.h"
+	"BayersClassifier.h"
+	"DfDetector.h"
+	"FeatureDetector.h"
+	<opencv/cv.h>
+	<tr1/memory>
+
+1334838296 c:\work\logo_detection\include\logodetector.h
+	"LogoletSimulator.h"
+	<tr1/memory>
+	<string>
+	<vector>
+	<opencv/cv.h>
+
+1333899920 source:d:\others\c++workspace\logo_detection\scr\basiclogodetector.cpp
+	"BasicLogoDetector.h"
+	"utils.h"
+	"globals.h"
+	<opencv/cv.h>
+	<log4cplus/logger.h>
+	<cmath>
+	<fstream>
+	<string>
+	<vector>
+
+1333870419 d:\others\c++workspace\logo_detection\include\basiclogodetector.h
+	"LogoDetector.h"
+	"BayersClassifier.h"
+	"DfDetector.h"
+	"FeatureDetector.h"
+	<opencv/cv.h>
+
+1333893661 d:\others\c++workspace\logo_detection\include\logodetector.h
+	"VideoFileReader.h"
+	<tr1/memory>
+	<string>
+	<vector>
+	<opencv/cv.h>
+
+1333859500 d:\others\c++workspace\logo_detection\include\videofilereader.h
+	"VideoReader.h"
+	<opencv/highgui.h>
+	<iostream>
+	<string>
+
+1333859451 d:\others\c++workspace\logo_detection\include\videoreader.h
+	<string>
+
+1313155318 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv\highgui.h
+	"opencv2/core/core_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui_c.h"
+	"opencv2/highgui/highgui.hpp"
+
+1313156036 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\core\core_c.h
+	"opencv2/core/types_c.h"
+
+1313156036 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\core\types_c.h
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	<stdint.h>
+	<intrin.h>
+	<emmintrin.h>
+	<fastmath.h>
+	<math.h>
+	<ipl.h>
+	<ipl/ipl.h>
+
+1313447658 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\core\core.hpp
+	"opencv2/core/types_c.h"
+	"opencv2/core/version.hpp"
+	<limits.h>
+	<algorithm>
+	<cmath>
+	<cstddef>
+	<complex>
+	<map>
+	<new>
+	<string>
+	<vector>
+	"opencv2/core/operations.hpp"
+	"opencv2/core/mat.hpp"
+
+1313156036 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\core\version.hpp
+
+1313447658 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\core\operations.hpp
+	<string.h>
+	<limits.h>
+	<ext/atomicity.h>
+	<bits/atomicity.h>
+	<intrin.h>
+	<limits>
+
+1313156036 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\core\mat.hpp
+	<limits.h>
+	<string.h>
+
+1313156006 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\highgui\highgui_c.h
+	"opencv2/core/core_c.h"
+
+1313156006 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\highgui\highgui.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui_c.h"
+
+1313155320 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv\cv.h
+	"opencv2/core/core_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/video/tracking.hpp"
+	"opencv2/features2d/features2d.hpp"
+	"opencv2/flann/flann.hpp"
+	"opencv2/calib3d/calib3d.hpp"
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/legacy/compat.hpp"
+	"opencv2/core/internal.hpp"
+
+1313156060 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\imgproc\imgproc_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+
+1313156060 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\imgproc\types_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+
+1313156060 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\imgproc\imgproc.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/types_c.h"
+
+1313156088 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\video\tracking.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+
+1313156088 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\features2d\features2d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+	<limits>
+
+1313355944 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\miniflann.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/defines.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\defines.h
+	"config.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\config.h
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\flann.hpp
+	"opencv2/core/types_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/flann/flann_base.hpp"
+	"opencv2/flann/miniflann.hpp"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\flann_base.hpp
+	<vector>
+	<string>
+	<cassert>
+	<cstdio>
+	"general.h"
+	"matrix.h"
+	"params.h"
+	"saving.h"
+	"all_indices.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\general.h
+	"defines.h"
+	<stdexcept>
+	<cassert>
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\matrix.h
+	<stdio.h>
+	"general.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\params.h
+	"any.h"
+	"general.h"
+	<iostream>
+	<map>
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\any.h
+	<stdexcept>
+	<ostream>
+	<typeinfo>
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\saving.h
+	<cstring>
+	<vector>
+	"general.h"
+	"nn_index.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\nn_index.h
+	<string>
+	"general.h"
+	"matrix.h"
+	"result_set.h"
+	"params.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\result_set.h
+	<algorithm>
+	<cstring>
+	<iostream>
+	<limits>
+	<set>
+	<vector>
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\all_indices.h
+	"general.h"
+	"nn_index.h"
+	"kdtree_index.h"
+	"kdtree_single_index.h"
+	"kmeans_index.h"
+	"composite_index.h"
+	"linear_index.h"
+	"hierarchical_clustering_index.h"
+	"lsh_index.h"
+	"autotuned_index.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\kdtree_index.h
+	<algorithm>
+	<map>
+	<cassert>
+	<cstring>
+	"general.h"
+	"nn_index.h"
+	"dynamic_bitset.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\dynamic_bitset.h
+	<boost/dynamic_bitset.hpp>
+	<limits.h>
+	"dist.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\dist.h
+	<cmath>
+	<cstdlib>
+	<string.h>
+	<stdint.h>
+	"defines.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\heap.h
+	<algorithm>
+	<vector>
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\allocator.h
+	<stdlib.h>
+	<stdio.h>
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\random.h
+	<algorithm>
+	<cstdlib>
+	<vector>
+	"general.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\kdtree_single_index.h
+	<algorithm>
+	<map>
+	<cassert>
+	<cstring>
+	"general.h"
+	"nn_index.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\kmeans_index.h
+	<algorithm>
+	<string>
+	<map>
+	<cassert>
+	<limits>
+	<cmath>
+	"general.h"
+	"nn_index.h"
+	"dist.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+	"logger.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\logger.h
+	<stdio.h>
+	<stdarg.h>
+	"defines.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\composite_index.h
+	"general.h"
+	"nn_index.h"
+	"kdtree_index.h"
+	"kmeans_index.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\linear_index.h
+	"general.h"
+	"nn_index.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\hierarchical_clustering_index.h
+	<algorithm>
+	<string>
+	<map>
+	<cassert>
+	<limits>
+	<cmath>
+	"general.h"
+	"nn_index.h"
+	"dist.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\lsh_index.h
+	<algorithm>
+	<cassert>
+	<cstring>
+	<map>
+	<vector>
+	"general.h"
+	"nn_index.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"lsh_table.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\lsh_table.h
+	<algorithm>
+	<iostream>
+	<iomanip>
+	<limits.h>
+	<unordered_map>
+	<map>
+	<math.h>
+	<stddef.h>
+	"dynamic_bitset.h"
+	"matrix.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\autotuned_index.h
+	"general.h"
+	"nn_index.h"
+	"ground_truth.h"
+	"index_testing.h"
+	"sampling.h"
+	"kdtree_index.h"
+	"kdtree_single_index.h"
+	"kmeans_index.h"
+	"composite_index.h"
+	"linear_index.h"
+	"logger.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\ground_truth.h
+	"dist.h"
+	"matrix.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\index_testing.h
+	<cstring>
+	<cassert>
+	<cmath>
+	"matrix.h"
+	"nn_index.h"
+	"result_set.h"
+	"logger.h"
+	"timer.h"
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\timer.h
+	<time.h>
+
+1313156056 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\flann\sampling.h
+	"matrix.h"
+	"random.h"
+
+1313156070 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\calib3d\calib3d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+
+1313355946 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\objdetect\objdetect.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+	<deque>
+
+1313156076 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\legacy\compat.hpp
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+	<math.h>
+	<string.h>
+
+1313532340 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\core\internal.hpp
+	<vector>
+	<windows.h>
+	<pthread.h>
+	<sys/mman.h>
+	"ipp.h"
+	"emmintrin.h"
+	"pmmintrin.h"
+	"arm_neon.h"
+	"tbb/tbb_stddef.h"
+	"tbb/tbb.h"
+	"tbb/task.h"
+	<Eigen/Core>
+	"opencv2/core/eigen.hpp"
+	"threading_framework.hpp"
+	<malloc.h>
+	<alloca.h>
+	<stdlib.h>
+
+1313156036 d:\others\c++workspace\logo_detection\vendor\opencv\include\opencv2\core\eigen.hpp
+	"cxcore.h"
+
+1333859592 source:d:\others\c++workspace\logo_detection\scr\videofilereader.cpp
+	"VideoFileReader.h"
+	<log4cplus/logger.h>
+	<opencv/cv.h>
+	<string>
+
+1275037612 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\logger.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/tstring.h>
+	<log4cplus/spi/appenderattachable.h>
+	<log4cplus/spi/loggerfactory.h>
+	<vector>
+	<log4cplus/loggingmacros.h>
+
+1250585962 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\config.hxx
+	<log4cplus/config/win32.h>
+	<log4cplus/config/macosx.h>
+	<log4cplus/config/defines.hxx>
+	<log4cplus/helpers/thread-config.h>
+
+1288721918 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\config\win32.h
+	<windows.h>
+
+1229458614 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\config\macosx.h
+
+1321099424 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\config\defines.hxx
+
+1250558510 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\helpers\thread-config.h
+	<pthread.h>
+	<semaphore.h>
+	<windows.h>
+
+1275037612 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\loglevel.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<vector>
+
+1250558510 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\tstring.h
+	<log4cplus/config.hxx>
+	<string>
+	<locale>
+
+1250558510 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\spi\appenderattachable.h
+	<log4cplus/config.hxx>
+	<log4cplus/appender.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+	<vector>
+
+1275037612 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\appender.h
+	<log4cplus/config.hxx>
+	<log4cplus/layout.h>
+	<log4cplus/loglevel.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/spi/filter.h>
+	<memory>
+
+1280252746 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\layout.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/streams.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/helpers/timehelper.h>
+	<log4cplus/spi/loggingevent.h>
+	<vector>
+
+1250558510 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\streams.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<iostream>
+	<sstream>
+
+1250558510 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\helpers\logloguser.h
+	<log4cplus/config.hxx>
+
+1250558510 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\helpers\property.h
+	<log4cplus/config.hxx>
+	<log4cplus/streams.h>
+	<log4cplus/tstring.h>
+	<map>
+	<vector>
+
+1277223912 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\helpers\timehelper.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<time.h>
+	<ctime>
+
+1251219342 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\spi\loggingevent.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/ndc.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/timehelper.h>
+	<log4cplus/helpers/threads.h>
+
+1291747444 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\ndc.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<map>
+	<stack>
+
+1278930460 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\helpers\threads.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+
+1260386836 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\helpers\pointer.h
+	<log4cplus/config.hxx>
+	<memory>
+	<stdexcept>
+	<string>
+	<algorithm>
+	<cassert>
+
+1275037612 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\spi\filter.h
+	<log4cplus/config.hxx>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/spi/loggingevent.h>
+
+1250558510 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\spi\loggerfactory.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+
+1253535442 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\loggingmacros.h
+	<log4cplus/config.hxx>
+	<log4cplus/streams.h>
+
+1331011688 source:d:\others\c++workspace\logo_detection\test\unittest_demo.cpp
+	"UnitTest++.h"
+
+1332901669 source:d:\others\c++workspace\logo_detection\main.cpp
+	<log4cplus/configurator.h>
+	<log4cplus/logger.h>
+	<windows.h>
+	<stdlib.h>
+	<UnitTest++.h>
+	"BasicLogoDetector.h"
+
+1275037612 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\configurator.h
+	<log4cplus/config.hxx>
+	<log4cplus/appender.h>
+	<log4cplus/hierarchy.h>
+	<log4cplus/logger.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<map>
+
+1250558510 d:\others\c++workspace\logo_detection\vendor\log4cplus\include\log4cplus\hierarchy.h
+	<log4cplus/config.hxx>
+	<log4cplus/logger.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/threads.h>
+	<map>
+	<memory>
+	<vector>
+
+1335167680 c:\work\logo_detection\include\utils.h
+	<string>
+	<vector>
+	<opencv/cv.h>
+	<CImg.h>
+
+1334106463 source:c:\work\logo_detection\scr\logoletsimulator.cpp
+	"LogoletSimulator.h"
+	"dataEntry.h"
+	"utils.h"
+	<log4cplus/logger.h>
+	<iostream>
+
+1334046718 c:\work\logo_detection\include\logoletsimulator.h
+	<opencv/cv.h>
+	<vector>
+	<tr1/memory>
+
+1334106990 source:c:\work\logo_detection\test\test_logoletsimulator.cpp
+	"UnitTest++.h"
+	"LogoletSimulator.h"
+	"utils.h"
+	"dataEntry.h"
+	<opencv/highgui.h>
+
+1335163384 source:c:\work\logo_detection\test\test_utils.cpp
+	"UnitTest++.h"
+	"utils.h"
+	"pHash.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<iostream>
+	<string>
+	<vector>
+	<assert.h>
+	<log4cplus/logger.h>
+
+1333865144 d:\others\c++workspace\logo_detection\include\utils.h
+	<string>
+	<vector>
+	<opencv/cv.h>
+
+1334048558 source:d:\others\c++workspace\logo_detection\scr\logoletsimulator.cpp
+	"LogoletSimulator.h"
+	"dataEntry.h"
+	"utils.h"
+	<log4cplus/logger.h>
+
+1334046716 d:\others\c++workspace\logo_detection\include\logoletsimulator.h
+	<opencv/cv.h>
+	<vector>
+	<tr1/memory>
+
+1333863645 source:d:\others\c++workspace\logo_detection\test\test_logoletsimulator.cpp
+	"UnitTest++.h"
+	"LogoletSimulator.h"
+	"utils.h"
+	<opencv/highgui.h>
+	<Flood/Utilities/Vector.h>
+
+1333865096 source:d:\others\c++workspace\logo_detection\test\test_utils.cpp
+	"UnitTest++.h"
+	"utils.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<iostream>
+	<string>
+	<vector>
+	<log4cplus/logger.h>
+
+1188391710 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\unittest++.h
+	"Config.h"
+	"Test.h"
+	"TestList.h"
+	"TestSuite.h"
+	"TestResults.h"
+	"TestMacros.h"
+	"CheckMacros.h"
+	"TestRunner.h"
+	"TimeConstraint.h"
+
+1225399116 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\config.h
+
+1225312688 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\test.h
+	"TestDetails.h"
+
+1174340056 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\testdetails.h
+
+1180492958 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\testlist.h
+
+1174340056 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\testsuite.h
+
+1174340056 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\testresults.h
+
+1225416426 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\testmacros.h
+	"Config.h"
+	"ExecuteTest.h"
+	"AssertException.h"
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"Posix/SignalTranslator.h"
+
+1225312688 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\executetest.h
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"AssertException.h"
+	"CurrentTest.h"
+	"Posix/SignalTranslator.h"
+
+1174340056 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\memoryoutstream.h
+	"Config.h"
+	<sstream>
+	<cstddef>
+
+1174340056 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\assertexception.h
+	<exception>
+
+1225312688 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\currenttest.h
+
+1224709002 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\posix\signaltranslator.h
+	<setjmp.h>
+	<signal.h>
+
+1225312688 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\checkmacros.h
+	"Checks.h"
+	"AssertException.h"
+	"MemoryOutStream.h"
+	"TestDetails.h"
+	"CurrentTest.h"
+
+1225398462 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\checks.h
+	"Config.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+
+1225312688 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\testrunner.h
+	"Test.h"
+	"TestList.h"
+	"CurrentTest.h"
+
+1225312688 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\timeconstraint.h
+	"TimeHelpers.h"
+
+1174340056 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\timehelpers.h
+	"Config.h"
+	"Posix/TimeHelpers.h"
+	"Win32/TimeHelpers.h"
+
+1174340056 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\posix\timehelpers.h
+	<sys/time.h>
+
+1225399116 d:\others\c++workspace\logo_detection\vendor\unittest++\scr\win32\timehelpers.h
+	"../Config.h"
+
+1333873276 source:d:\others\c++workspace\logo_detection\scr\utils.cpp
+	"utils.h"
+	"globals.h"
+	<log4cplus/logger.h>
+	<fstream>
+	<dirent.h>
+
+1333897965 source:d:\others\c++workspace\logo_detection\scr\globals.cpp
+	"globals.h"
+
+1333897858 d:\others\c++workspace\logo_detection\include\globals.h
+	<string>
+
+1333897897 source:d:\others\c++workspace\logo_detection\scr\main.cpp
+	<log4cplus/configurator.h>
+	<log4cplus/logger.h>
+	<windows.h>
+	<stdlib.h>
+	"globals.h"
+	"utils.h"
+	<UnitTest++.h>
+	"BasicLogoDetector.h"
+
+1333122459 source:d:\others\c++workspace\logo_detection\scr\bayersclassification.cpp
+	"BayersClassification.h"
+	"LogoletSimulator.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<log4cplus/logger.h>
+	<Flood/Utilities/InputTargetDataSet.h>
+	<Flood/MultilayerPerceptron/MultilayerPerceptron.h>
+	<Flood/ObjectiveFunctional/NormalizedSquaredError.h>
+	<Flood/TrainingAlgorithm/QuasiNewtonMethod.h>
+
+1333116549 d:\others\c++workspace\logo_detection\include\bayersclassification.h
+	<string>
+	<tr1/memory>
+
+1280402102 d:\others\c++workspace\logo_detection\vendor\flood3\scr\flood\utilities\vector.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<climits>
+	<cmath>
+
+1280394874 d:\others\c++workspace\logo_detection\vendor\flood3\scr\flood\utilities\inputtargetdataset.h
+	<string>
+	"../Utilities/Vector.h"
+	"../Utilities/Matrix.h"
+
+1280402102 d:\others\c++workspace\logo_detection\vendor\flood3\scr\flood\utilities\matrix.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<climits>
+	<cmath>
+	"Vector.h"
+
+1280394876 d:\others\c++workspace\logo_detection\vendor\flood3\scr\flood\multilayerperceptron\multilayerperceptron.h
+	<string>
+	"../Perceptron/Perceptron.h"
+	"../Utilities/Vector.h"
+	"../Utilities/Matrix.h"
+
+1280394876 d:\others\c++workspace\logo_detection\vendor\flood3\scr\flood\perceptron\perceptron.h
+	"../Utilities/Vector.h"
+
+1280393710 d:\others\c++workspace\logo_detection\vendor\flood3\scr\flood\objectivefunctional\normalizedsquarederror.h
+	"ObjectiveFunctional.h"
+	"../Utilities/InputTargetDataSet.h"
+
+1280394876 d:\others\c++workspace\logo_detection\vendor\flood3\scr\flood\objectivefunctional\objectivefunctional.h
+	"../Utilities/Vector.h"
+	"../Utilities/Matrix.h"
+	"../MultilayerPerceptron/MultilayerPerceptron.h"
+	<string>
+
+1280400252 d:\others\c++workspace\logo_detection\vendor\flood3\scr\flood\trainingalgorithm\quasinewtonmethod.h
+	"TrainingAlgorithm.h"
+	"../ObjectiveFunctional/ObjectiveFunctional.h"
+
+1280394874 d:\others\c++workspace\logo_detection\vendor\flood3\scr\flood\trainingalgorithm\trainingalgorithm.h
+	"../MultilayerPerceptron/MultilayerPerceptron.h"
+	"../ObjectiveFunctional/ObjectiveFunctional.h"
+
+1333116811 source:d:\others\c++workspace\logo_detection\test\test_bayersclassification.cpp
+	"UnitTest++.h"
+	"BayersClassification.h"
+	<Flood/Utilities/Vector.h>
+
+1334046703 d:\others\c++workspace\logo_detection\include\bayersclassifier.h
+	<string>
+	<tr1/memory>
+	"neuralNetwork.h"
+	"InputData.h"
+
+1334047193 source:d:\others\c++workspace\logo_detection\scr\bayersclassifier.cpp
+	"BayersClassifier.h"
+	"LogoletSimulator.h"
+	"VideoFileReader.h"
+	"globals.h"
+	"neuralNetwork.h"
+	"dataEntry.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<log4cplus/logger.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1333897995 d:\others\c++workspace\logo_detection\include\dfdetector.h
+	<opencv/cv.h>
+	<tr1/memory>
+	<vector>
+	"LogoletSimulator.h"
+	"LogoDetector.h"
+
+1333898214 source:d:\others\c++workspace\logo_detection\scr\dfdetector.cpp
+	"DfDetector.h"
+	<opencv/cv.h>
+	<log4cplus/logger.h>
+	<vector>
+	<sstream>
+	"utils.h"
+	"globals.h"
+	"LogoletSimulator.h"
+	"VideoReader.h"
+
+1334731586 source:c:\work\logo_detection\scr\bayersclassifier.cpp
+	"BayersClassifier.h"
+	"LogoletSimulator.h"
+	"VideoFileReader.h"
+	"globals.h"
+	"neuralNetwork.h"
+	"dataEntry.h"
+	"utils.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<log4cplus/logger.h>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+	<iostream>
+
+1334389714 c:\work\logo_detection\include\bayersclassifier.h
+	<string>
+	<tr1/memory>
+	"neuralNetwork.h"
+	"InputData.h"
+
+1280402102 c:\work\logo_detection\vendor\flood3\scr\flood\utilities\vector.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<climits>
+	<cmath>
+
+1280394874 c:\work\logo_detection\vendor\flood3\scr\flood\utilities\inputtargetdataset.h
+	<string>
+	"../Utilities/Vector.h"
+	"../Utilities/Matrix.h"
+
+1280402102 c:\work\logo_detection\vendor\flood3\scr\flood\utilities\matrix.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<climits>
+	<cmath>
+	"Vector.h"
+
+1280394876 c:\work\logo_detection\vendor\flood3\scr\flood\multilayerperceptron\multilayerperceptron.h
+	<string>
+	"../Perceptron/Perceptron.h"
+	"../Utilities/Vector.h"
+	"../Utilities/Matrix.h"
+
+1280394876 c:\work\logo_detection\vendor\flood3\scr\flood\perceptron\perceptron.h
+	"../Utilities/Vector.h"
+
+1280393710 c:\work\logo_detection\vendor\flood3\scr\flood\objectivefunctional\normalizedsquarederror.h
+	"ObjectiveFunctional.h"
+	"../Utilities/InputTargetDataSet.h"
+
+1280394876 c:\work\logo_detection\vendor\flood3\scr\flood\objectivefunctional\objectivefunctional.h
+	"../Utilities/Vector.h"
+	"../Utilities/Matrix.h"
+	"../MultilayerPerceptron/MultilayerPerceptron.h"
+	<string>
+
+1280400252 c:\work\logo_detection\vendor\flood3\scr\flood\trainingalgorithm\quasinewtonmethod.h
+	"TrainingAlgorithm.h"
+	"../ObjectiveFunctional/ObjectiveFunctional.h"
+
+1280394874 c:\work\logo_detection\vendor\flood3\scr\flood\trainingalgorithm\trainingalgorithm.h
+	"../MultilayerPerceptron/MultilayerPerceptron.h"
+	"../ObjectiveFunctional/ObjectiveFunctional.h"
+
+1335255571 source:c:\work\logo_detection\scr\dfdetector.cpp
+	"DfDetector.h"
+	"VideoFileReader.h"
+	<opencv/cv.h>
+	<log4cplus/logger.h>
+	<vector>
+	<sstream>
+	"utils.h"
+	"globals.h"
+	"LogoletSimulator.h"
+	"VideoReader.h"
+
+1334837698 c:\work\logo_detection\include\dfdetector.h
+	<opencv/cv.h>
+	<tr1/memory>
+	<vector>
+	"LogoDetector.h"
+
+1334669355 source:c:\work\logo_detection\scr\globals.cpp
+	"globals.h"
+
+1334669362 c:\work\logo_detection\include\globals.h
+	<string>
+
+1335168125 source:c:\work\logo_detection\scr\main.cpp
+	<log4cplus/configurator.h>
+	<log4cplus/logger.h>
+	"globals.h"
+	"utils.h"
+	<UnitTest++.h>
+	"BasicLogoDetector.h"
+	<opencv/highgui.h>
+
+1335167672 source:c:\work\logo_detection\scr\utils.cpp
+	"utils.h"
+	"globals.h"
+	<log4cplus/logger.h>
+	<fstream>
+	<dirent.h>
+
+1335253925 source:c:\work\logo_detection\scr\featuredetector.cpp
+	"FeatureDetector.h"
+	"VideoFileReader.h"
+	"globals.h"
+	<log4cplus/logger.h>
+
+1334837785 c:\work\logo_detection\include\featuredetector.h
+	"BayersClassifier.h"
+	"LogoDetector.h"
+	<string>
+
+1334838093 source:c:\work\logo_detection\scr\logodetector.cpp
+	"LogoDetector.h"
+	"VideoFileReader.h"
+	<opencv/cv.h>
+
+1334048329 d:\others\c++workspace\logo_detection\include\neuralnetwork.h
+	<stdlib.h>
+	<math.h>
+	<ctime>
+	<vector>
+	<fstream>
+	<sstream>
+	"dataEntry.h"
+
+1206341092 d:\others\c++workspace\logo_detection\include\dataentry.h
+	<iostream>
+	<vector>
+
+1334047163 d:\others\c++workspace\logo_detection\include\inputdata.h
+	<vector>
+	<fstream>
+	<string.h>
+	<math.h>
+	<algorithm>
+	"dataEntry.h"
+
+1333898080 d:\others\c++workspace\logo_detection\include\featuredetector.h
+	"BayersClassifier.h"
+	"LogoDetector.h"
+	"LogoletSimulator.h"
+	<string>
+
+1333898225 source:d:\others\c++workspace\logo_detection\scr\featuredetector.cpp
+	"FeatureDetector.h"
+	"globals.h"
+	<log4cplus/logger.h>
+
+1333893732 source:d:\others\c++workspace\logo_detection\scr\logodetector.cpp
+	"LogoDetector.h"
+	<opencv/cv.h>
+
+1334382257 c:\work\logo_detection\include\neuralnetwork.h
+	<stdlib.h>
+	<math.h>
+	<ctime>
+	<vector>
+	<fstream>
+	<sstream>
+	"dataEntry.h"
+
+1206341092 c:\work\logo_detection\include\dataentry.h
+	<iostream>
+	<vector>
+
+1334047164 c:\work\logo_detection\include\inputdata.h
+	<vector>
+	<fstream>
+	<string.h>
+	<math.h>
+	<algorithm>
+	"dataEntry.h"
+
+1334108282 source:c:\work\logo_detection\test\test_neuralnetwork.cpp
+	"UnitTest++.h"
+	"neuralNetwork.h"
+	"dataEntry.h"
+	"InputData.h"
+	<vector>
+
+1334843302 source:c:\work\logo_detection\scr\logomatch.cpp
+	"LogoMatch.h"
+	<log4cplus/logger.h>
+
+1335166718 c:\work\logo_detection\include\logomatch.h
+	<map>
+	<string>
+	<utility>
+	<opencv/cv.h>
+
+1336040983 source:j:\graduation_proj\logo_detection\scr\basiclogodetector.cpp
+	"BasicLogoDetector.h"
+	"VideoFileReader.h"
+	"LogoMatch.h"
+	"AdvancedLogoMatch.h"
+	"utils.h"
+	"globals.h"
+	<opencv/cv.h>
+	<log4cplus/logger.h>
+	<cmath>
+	<fstream>
+	<string>
+	<vector>
+	<map>
+
+1335168776 j:\graduation_proj\logo_detection\include\basiclogodetector.h
+	"LogoDetector.h"
+	"BayersClassifier.h"
+	"DfDetector.h"
+	"FeatureDetector.h"
+	<opencv/cv.h>
+	<tr1/memory>
+
+1334838296 j:\graduation_proj\logo_detection\include\logodetector.h
+	"LogoletSimulator.h"
+	<tr1/memory>
+	<string>
+	<vector>
+	<opencv/cv.h>
+
+1334232392 j:\graduation_proj\logo_detection\include\videofilereader.h
+	"VideoReader.h"
+	<opencv/highgui.h>
+	<iostream>
+	<string>
+
+1334232709 j:\graduation_proj\logo_detection\include\videoreader.h
+	<string>
+
+1313155318 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv\highgui.h
+	"opencv2/core/core_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui_c.h"
+	"opencv2/highgui/highgui.hpp"
+
+1313156036 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\core\core_c.h
+	"opencv2/core/types_c.h"
+
+1313156036 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\core\types_c.h
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	<stdint.h>
+	<intrin.h>
+	<emmintrin.h>
+	<fastmath.h>
+	<math.h>
+	<ipl.h>
+	<ipl/ipl.h>
+
+1313447658 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\core\core.hpp
+	"opencv2/core/types_c.h"
+	"opencv2/core/version.hpp"
+	<limits.h>
+	<algorithm>
+	<cmath>
+	<cstddef>
+	<complex>
+	<map>
+	<new>
+	<string>
+	<vector>
+	"opencv2/core/operations.hpp"
+	"opencv2/core/mat.hpp"
+
+1313156036 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\core\version.hpp
+
+1313447658 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\core\operations.hpp
+	<string.h>
+	<limits.h>
+	<ext/atomicity.h>
+	<bits/atomicity.h>
+	<intrin.h>
+	<limits>
+
+1313156036 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\core\mat.hpp
+	<limits.h>
+	<string.h>
+
+1313156006 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\highgui\highgui_c.h
+	"opencv2/core/core_c.h"
+
+1313156006 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\highgui\highgui.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui_c.h"
+
+1313155320 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv\cv.h
+	"opencv2/core/core_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/video/tracking.hpp"
+	"opencv2/features2d/features2d.hpp"
+	"opencv2/flann/flann.hpp"
+	"opencv2/calib3d/calib3d.hpp"
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/legacy/compat.hpp"
+	"opencv2/core/internal.hpp"
+
+1313156060 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\imgproc\imgproc_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+
+1313156060 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\imgproc\types_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+
+1313156060 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\imgproc\imgproc.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/types_c.h"
+
+1313156088 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\video\tracking.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+
+1313156088 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\features2d\features2d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+	<limits>
+
+1313355944 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\miniflann.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/defines.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\defines.h
+	"config.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\config.h
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\flann.hpp
+	"opencv2/core/types_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/flann/flann_base.hpp"
+	"opencv2/flann/miniflann.hpp"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\flann_base.hpp
+	<vector>
+	<string>
+	<cassert>
+	<cstdio>
+	"general.h"
+	"matrix.h"
+	"params.h"
+	"saving.h"
+	"all_indices.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\general.h
+	"defines.h"
+	<stdexcept>
+	<cassert>
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\matrix.h
+	<stdio.h>
+	"general.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\params.h
+	"any.h"
+	"general.h"
+	<iostream>
+	<map>
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\any.h
+	<stdexcept>
+	<ostream>
+	<typeinfo>
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\saving.h
+	<cstring>
+	<vector>
+	"general.h"
+	"nn_index.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\nn_index.h
+	<string>
+	"general.h"
+	"matrix.h"
+	"result_set.h"
+	"params.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\result_set.h
+	<algorithm>
+	<cstring>
+	<iostream>
+	<limits>
+	<set>
+	<vector>
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\all_indices.h
+	"general.h"
+	"nn_index.h"
+	"kdtree_index.h"
+	"kdtree_single_index.h"
+	"kmeans_index.h"
+	"composite_index.h"
+	"linear_index.h"
+	"hierarchical_clustering_index.h"
+	"lsh_index.h"
+	"autotuned_index.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\kdtree_index.h
+	<algorithm>
+	<map>
+	<cassert>
+	<cstring>
+	"general.h"
+	"nn_index.h"
+	"dynamic_bitset.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\dynamic_bitset.h
+	<boost/dynamic_bitset.hpp>
+	<limits.h>
+	"dist.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\dist.h
+	<cmath>
+	<cstdlib>
+	<string.h>
+	<stdint.h>
+	"defines.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\heap.h
+	<algorithm>
+	<vector>
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\allocator.h
+	<stdlib.h>
+	<stdio.h>
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\random.h
+	<algorithm>
+	<cstdlib>
+	<vector>
+	"general.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\kdtree_single_index.h
+	<algorithm>
+	<map>
+	<cassert>
+	<cstring>
+	"general.h"
+	"nn_index.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\kmeans_index.h
+	<algorithm>
+	<string>
+	<map>
+	<cassert>
+	<limits>
+	<cmath>
+	"general.h"
+	"nn_index.h"
+	"dist.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+	"logger.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\logger.h
+	<stdio.h>
+	<stdarg.h>
+	"defines.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\composite_index.h
+	"general.h"
+	"nn_index.h"
+	"kdtree_index.h"
+	"kmeans_index.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\linear_index.h
+	"general.h"
+	"nn_index.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\hierarchical_clustering_index.h
+	<algorithm>
+	<string>
+	<map>
+	<cassert>
+	<limits>
+	<cmath>
+	"general.h"
+	"nn_index.h"
+	"dist.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\lsh_index.h
+	<algorithm>
+	<cassert>
+	<cstring>
+	<map>
+	<vector>
+	"general.h"
+	"nn_index.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"lsh_table.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\lsh_table.h
+	<algorithm>
+	<iostream>
+	<iomanip>
+	<limits.h>
+	<unordered_map>
+	<map>
+	<math.h>
+	<stddef.h>
+	"dynamic_bitset.h"
+	"matrix.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\autotuned_index.h
+	"general.h"
+	"nn_index.h"
+	"ground_truth.h"
+	"index_testing.h"
+	"sampling.h"
+	"kdtree_index.h"
+	"kdtree_single_index.h"
+	"kmeans_index.h"
+	"composite_index.h"
+	"linear_index.h"
+	"logger.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\ground_truth.h
+	"dist.h"
+	"matrix.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\index_testing.h
+	<cstring>
+	<cassert>
+	<cmath>
+	"matrix.h"
+	"nn_index.h"
+	"result_set.h"
+	"logger.h"
+	"timer.h"
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\timer.h
+	<time.h>
+
+1313156056 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\sampling.h
+	"matrix.h"
+	"random.h"
+
+1313156070 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\calib3d\calib3d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+
+1313355946 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\objdetect\objdetect.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+	<deque>
+
+1313156076 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\legacy\compat.hpp
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+	<math.h>
+	<string.h>
+
+1313532340 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\core\internal.hpp
+	<vector>
+	<windows.h>
+	<pthread.h>
+	<sys/mman.h>
+	"ipp.h"
+	"emmintrin.h"
+	"pmmintrin.h"
+	"arm_neon.h"
+	"tbb/tbb_stddef.h"
+	"tbb/tbb.h"
+	"tbb/task.h"
+	<Eigen/Core>
+	"opencv2/core/eigen.hpp"
+	"threading_framework.hpp"
+	<malloc.h>
+	<alloca.h>
+	<stdlib.h>
+
+1313156036 j:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\core\eigen.hpp
+	"cxcore.h"
+
+1334389714 j:\graduation_proj\logo_detection\include\bayersclassifier.h
+	<string>
+	<tr1/memory>
+	"neuralNetwork.h"
+	"InputData.h"
+
+1334382257 j:\graduation_proj\logo_detection\include\neuralnetwork.h
+	<stdlib.h>
+	<math.h>
+	<ctime>
+	<vector>
+	<fstream>
+	<sstream>
+	"dataEntry.h"
+
+1206341092 j:\graduation_proj\logo_detection\include\dataentry.h
+	<iostream>
+	<vector>
+
+1334047164 j:\graduation_proj\logo_detection\include\inputdata.h
+	<vector>
+	<fstream>
+	<string.h>
+	<math.h>
+	<algorithm>
+	"dataEntry.h"
+
+1334837698 j:\graduation_proj\logo_detection\include\dfdetector.h
+	<opencv/cv.h>
+	<tr1/memory>
+	<vector>
+	"LogoDetector.h"
+
+1334046718 j:\graduation_proj\logo_detection\include\logoletsimulator.h
+	<opencv/cv.h>
+	<vector>
+	<tr1/memory>
+
+1334837785 j:\graduation_proj\logo_detection\include\featuredetector.h
+	"BayersClassifier.h"
+	"LogoDetector.h"
+	<string>
+
+1335167680 j:\graduation_proj\logo_detection\include\utils.h
+	<string>
+	<vector>
+	<opencv/cv.h>
+	<CImg.h>
+
+1334669362 j:\graduation_proj\logo_detection\include\globals.h
+	<string>
+
+1275037612 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\logger.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/tstring.h>
+	<log4cplus/spi/appenderattachable.h>
+	<log4cplus/spi/loggerfactory.h>
+	<vector>
+	<log4cplus/loggingmacros.h>
+
+1250585962 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\config.hxx
+	<log4cplus/config/win32.h>
+	<log4cplus/config/macosx.h>
+	<log4cplus/config/defines.hxx>
+	<log4cplus/helpers/thread-config.h>
+
+1288721918 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\config\win32.h
+	<windows.h>
+
+1229458614 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\config\macosx.h
+
+1321099424 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\config\defines.hxx
+
+1250558510 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\helpers\thread-config.h
+	<pthread.h>
+	<semaphore.h>
+	<windows.h>
+
+1275037612 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\loglevel.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<vector>
+
+1250558510 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\tstring.h
+	<log4cplus/config.hxx>
+	<string>
+	<locale>
+
+1250558510 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\spi\appenderattachable.h
+	<log4cplus/config.hxx>
+	<log4cplus/appender.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+	<vector>
+
+1275037612 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\appender.h
+	<log4cplus/config.hxx>
+	<log4cplus/layout.h>
+	<log4cplus/loglevel.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/spi/filter.h>
+	<memory>
+
+1280252746 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\layout.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/streams.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/helpers/timehelper.h>
+	<log4cplus/spi/loggingevent.h>
+	<vector>
+
+1250558510 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\streams.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<iostream>
+	<sstream>
+
+1250558510 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\helpers\logloguser.h
+	<log4cplus/config.hxx>
+
+1250558510 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\helpers\property.h
+	<log4cplus/config.hxx>
+	<log4cplus/streams.h>
+	<log4cplus/tstring.h>
+	<map>
+	<vector>
+
+1277223912 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\helpers\timehelper.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<time.h>
+	<ctime>
+
+1251219342 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\spi\loggingevent.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/ndc.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/timehelper.h>
+	<log4cplus/helpers/threads.h>
+
+1291747444 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\ndc.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<map>
+	<stack>
+
+1278930460 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\helpers\threads.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+
+1260386836 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\helpers\pointer.h
+	<log4cplus/config.hxx>
+	<memory>
+	<stdexcept>
+	<string>
+	<algorithm>
+	<cassert>
+
+1275037612 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\spi\filter.h
+	<log4cplus/config.hxx>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/spi/loggingevent.h>
+
+1250558510 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\spi\loggerfactory.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+
+1253535442 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\loggingmacros.h
+	<log4cplus/config.hxx>
+	<log4cplus/streams.h>
+
+1336648874 source:j:\graduation_proj\logo_detection\scr\bayersclassifier.cpp
+	"BayersClassifier.h"
+	"LogoletSimulator.h"
+	"VideoFileReader.h"
+	"globals.h"
+	"neuralNetwork.h"
+	"dataEntry.h"
+	"utils.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<log4cplus/logger.h>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+	<iostream>
+
+1336227769 source:j:\graduation_proj\logo_detection\scr\dfdetector.cpp
+	"DfDetector.h"
+	"VideoFileReader.h"
+	<opencv/cv.h>
+	<log4cplus/logger.h>
+	<vector>
+	<sstream>
+	"utils.h"
+	"globals.h"
+	"LogoletSimulator.h"
+	"VideoReader.h"
+
+1336648799 source:j:\graduation_proj\logo_detection\scr\featuredetector.cpp
+	"FeatureDetector.h"
+	"VideoFileReader.h"
+	"globals.h"
+	<log4cplus/logger.h>
+
+1334838093 source:j:\graduation_proj\logo_detection\scr\logodetector.cpp
+	"LogoDetector.h"
+	"VideoFileReader.h"
+	<opencv/cv.h>
+
+1334106463 source:j:\graduation_proj\logo_detection\scr\logoletsimulator.cpp
+	"LogoletSimulator.h"
+	"dataEntry.h"
+	"utils.h"
+	<log4cplus/logger.h>
+	<iostream>
+
+1335187851 source:j:\graduation_proj\logo_detection\scr\videofilereader.cpp
+	"VideoFileReader.h"
+	<log4cplus/logger.h>
+	<opencv/cv.h>
+	<string>
+
+1334669355 source:j:\graduation_proj\logo_detection\scr\globals.cpp
+	"globals.h"
+
+1335167672 source:j:\graduation_proj\logo_detection\scr\utils.cpp
+	"utils.h"
+	"globals.h"
+	<log4cplus/logger.h>
+	<fstream>
+	<dirent.h>
+
+1334106990 source:j:\graduation_proj\logo_detection\test\test_logoletsimulator.cpp
+	"UnitTest++.h"
+	"LogoletSimulator.h"
+	"utils.h"
+	"dataEntry.h"
+	<opencv/highgui.h>
+
+1334108282 source:j:\graduation_proj\logo_detection\test\test_neuralnetwork.cpp
+	"UnitTest++.h"
+	"neuralNetwork.h"
+	"dataEntry.h"
+	"InputData.h"
+	<vector>
+
+1335163384 source:j:\graduation_proj\logo_detection\test\test_utils.cpp
+	"UnitTest++.h"
+	"utils.h"
+	"pHash.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<iostream>
+	<string>
+	<vector>
+	<assert.h>
+	<log4cplus/logger.h>
+
+1337214731 source:j:\graduation_proj\logo_detection\scr\main.cpp
+	<log4cplus/configurator.h>
+	<log4cplus/logger.h>
+	"globals.h"
+	"utils.h"
+	<UnitTest++.h>
+	"BasicLogoDetector.h"
+	<opencv/highgui.h>
+
+1275037612 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\configurator.h
+	<log4cplus/config.hxx>
+	<log4cplus/appender.h>
+	<log4cplus/hierarchy.h>
+	<log4cplus/logger.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<map>
+
+1250558510 j:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\hierarchy.h
+	<log4cplus/config.hxx>
+	<log4cplus/logger.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/threads.h>
+	<map>
+	<memory>
+	<vector>
+
+1335431707 j:\graduation_proj\logo_detection\include\logomatch.h
+	<map>
+	<string>
+	<utility>
+	<opencv/cv.h>
+
+1335431521 source:j:\graduation_proj\logo_detection\scr\logomatch.cpp
+	"LogoMatch.h"
+	<log4cplus/logger.h>
+
+1336040983 source:f:\graduation_proj\logo_detection\scr\basiclogodetector.cpp
+	"BasicLogoDetector.h"
+	"VideoFileReader.h"
+	"LogoMatch.h"
+	"AdvancedLogoMatch.h"
+	"utils.h"
+	"globals.h"
+	<opencv/cv.h>
+	<log4cplus/logger.h>
+	<cmath>
+	<fstream>
+	<string>
+	<vector>
+	<map>
+
+1335168776 f:\graduation_proj\logo_detection\include\basiclogodetector.h
+	"LogoDetector.h"
+	"BayersClassifier.h"
+	"DfDetector.h"
+	"FeatureDetector.h"
+	<opencv/cv.h>
+	<tr1/memory>
+
+1334838296 f:\graduation_proj\logo_detection\include\logodetector.h
+	"LogoletSimulator.h"
+	<tr1/memory>
+	<string>
+	<vector>
+	<opencv/cv.h>
+
+1334046718 f:\graduation_proj\logo_detection\include\logoletsimulator.h
+	<opencv/cv.h>
+	<vector>
+	<tr1/memory>
+
+1313155320 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv\cv.h
+	"opencv2/core/core_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/video/tracking.hpp"
+	"opencv2/features2d/features2d.hpp"
+	"opencv2/flann/flann.hpp"
+	"opencv2/calib3d/calib3d.hpp"
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/legacy/compat.hpp"
+	"opencv2/core/internal.hpp"
+
+1313156036 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\core\core_c.h
+	"opencv2/core/types_c.h"
+
+1313156036 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\core\types_c.h
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	<stdint.h>
+	<intrin.h>
+	<emmintrin.h>
+	<fastmath.h>
+	<math.h>
+	<ipl.h>
+	<ipl/ipl.h>
+
+1313447658 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\core\core.hpp
+	"opencv2/core/types_c.h"
+	"opencv2/core/version.hpp"
+	<limits.h>
+	<algorithm>
+	<cmath>
+	<cstddef>
+	<complex>
+	<map>
+	<new>
+	<string>
+	<vector>
+	"opencv2/core/operations.hpp"
+	"opencv2/core/mat.hpp"
+
+1313156036 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\core\version.hpp
+
+1313447658 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\core\operations.hpp
+	<string.h>
+	<limits.h>
+	<ext/atomicity.h>
+	<bits/atomicity.h>
+	<intrin.h>
+	<limits>
+
+1313156036 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\core\mat.hpp
+	<limits.h>
+	<string.h>
+
+1313156060 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\imgproc\imgproc_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+
+1313156060 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\imgproc\types_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+
+1313156060 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\imgproc\imgproc.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/types_c.h"
+
+1313156088 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\video\tracking.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+
+1313156088 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\features2d\features2d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+	<limits>
+
+1313355944 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\miniflann.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/defines.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\defines.h
+	"config.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\config.h
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\flann.hpp
+	"opencv2/core/types_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/flann/flann_base.hpp"
+	"opencv2/flann/miniflann.hpp"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\flann_base.hpp
+	<vector>
+	<string>
+	<cassert>
+	<cstdio>
+	"general.h"
+	"matrix.h"
+	"params.h"
+	"saving.h"
+	"all_indices.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\general.h
+	"defines.h"
+	<stdexcept>
+	<cassert>
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\matrix.h
+	<stdio.h>
+	"general.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\params.h
+	"any.h"
+	"general.h"
+	<iostream>
+	<map>
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\any.h
+	<stdexcept>
+	<ostream>
+	<typeinfo>
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\saving.h
+	<cstring>
+	<vector>
+	"general.h"
+	"nn_index.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\nn_index.h
+	<string>
+	"general.h"
+	"matrix.h"
+	"result_set.h"
+	"params.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\result_set.h
+	<algorithm>
+	<cstring>
+	<iostream>
+	<limits>
+	<set>
+	<vector>
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\all_indices.h
+	"general.h"
+	"nn_index.h"
+	"kdtree_index.h"
+	"kdtree_single_index.h"
+	"kmeans_index.h"
+	"composite_index.h"
+	"linear_index.h"
+	"hierarchical_clustering_index.h"
+	"lsh_index.h"
+	"autotuned_index.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\kdtree_index.h
+	<algorithm>
+	<map>
+	<cassert>
+	<cstring>
+	"general.h"
+	"nn_index.h"
+	"dynamic_bitset.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\dynamic_bitset.h
+	<boost/dynamic_bitset.hpp>
+	<limits.h>
+	"dist.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\dist.h
+	<cmath>
+	<cstdlib>
+	<string.h>
+	<stdint.h>
+	"defines.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\heap.h
+	<algorithm>
+	<vector>
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\allocator.h
+	<stdlib.h>
+	<stdio.h>
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\random.h
+	<algorithm>
+	<cstdlib>
+	<vector>
+	"general.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\kdtree_single_index.h
+	<algorithm>
+	<map>
+	<cassert>
+	<cstring>
+	"general.h"
+	"nn_index.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\kmeans_index.h
+	<algorithm>
+	<string>
+	<map>
+	<cassert>
+	<limits>
+	<cmath>
+	"general.h"
+	"nn_index.h"
+	"dist.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+	"logger.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\logger.h
+	<stdio.h>
+	<stdarg.h>
+	"defines.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\composite_index.h
+	"general.h"
+	"nn_index.h"
+	"kdtree_index.h"
+	"kmeans_index.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\linear_index.h
+	"general.h"
+	"nn_index.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\hierarchical_clustering_index.h
+	<algorithm>
+	<string>
+	<map>
+	<cassert>
+	<limits>
+	<cmath>
+	"general.h"
+	"nn_index.h"
+	"dist.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\lsh_index.h
+	<algorithm>
+	<cassert>
+	<cstring>
+	<map>
+	<vector>
+	"general.h"
+	"nn_index.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"lsh_table.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\lsh_table.h
+	<algorithm>
+	<iostream>
+	<iomanip>
+	<limits.h>
+	<unordered_map>
+	<map>
+	<math.h>
+	<stddef.h>
+	"dynamic_bitset.h"
+	"matrix.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\autotuned_index.h
+	"general.h"
+	"nn_index.h"
+	"ground_truth.h"
+	"index_testing.h"
+	"sampling.h"
+	"kdtree_index.h"
+	"kdtree_single_index.h"
+	"kmeans_index.h"
+	"composite_index.h"
+	"linear_index.h"
+	"logger.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\ground_truth.h
+	"dist.h"
+	"matrix.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\index_testing.h
+	<cstring>
+	<cassert>
+	<cmath>
+	"matrix.h"
+	"nn_index.h"
+	"result_set.h"
+	"logger.h"
+	"timer.h"
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\timer.h
+	<time.h>
+
+1313156056 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\flann\sampling.h
+	"matrix.h"
+	"random.h"
+
+1313156070 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\calib3d\calib3d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+
+1313355946 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\objdetect\objdetect.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+	<deque>
+
+1313156076 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\legacy\compat.hpp
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+	<math.h>
+	<string.h>
+
+1313532340 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\core\internal.hpp
+	<vector>
+	<windows.h>
+	<pthread.h>
+	<sys/mman.h>
+	"ipp.h"
+	"emmintrin.h"
+	"pmmintrin.h"
+	"arm_neon.h"
+	"tbb/tbb_stddef.h"
+	"tbb/tbb.h"
+	"tbb/task.h"
+	<Eigen/Core>
+	"opencv2/core/eigen.hpp"
+	"threading_framework.hpp"
+	<malloc.h>
+	<alloca.h>
+	<stdlib.h>
+
+1313156036 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\core\eigen.hpp
+	"cxcore.h"
+
+1334389714 f:\graduation_proj\logo_detection\include\bayersclassifier.h
+	<string>
+	<tr1/memory>
+	"neuralNetwork.h"
+	"InputData.h"
+
+1334382257 f:\graduation_proj\logo_detection\include\neuralnetwork.h
+	<stdlib.h>
+	<math.h>
+	<ctime>
+	<vector>
+	<fstream>
+	<sstream>
+	"dataEntry.h"
+
+1206341092 f:\graduation_proj\logo_detection\include\dataentry.h
+	<iostream>
+	<vector>
+
+1334047164 f:\graduation_proj\logo_detection\include\inputdata.h
+	<vector>
+	<fstream>
+	<string.h>
+	<math.h>
+	<algorithm>
+	"dataEntry.h"
+
+1334837698 f:\graduation_proj\logo_detection\include\dfdetector.h
+	<opencv/cv.h>
+	<tr1/memory>
+	<vector>
+	"LogoDetector.h"
+
+1334837785 f:\graduation_proj\logo_detection\include\featuredetector.h
+	"BayersClassifier.h"
+	"LogoDetector.h"
+	<string>
+
+1335431707 f:\graduation_proj\logo_detection\include\logomatch.h
+	<map>
+	<string>
+	<utility>
+	<opencv/cv.h>
+
+1334232392 f:\graduation_proj\logo_detection\include\videofilereader.h
+	"VideoReader.h"
+	<opencv/highgui.h>
+	<iostream>
+	<string>
+
+1334232709 f:\graduation_proj\logo_detection\include\videoreader.h
+	<string>
+
+1313155318 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv\highgui.h
+	"opencv2/core/core_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui_c.h"
+	"opencv2/highgui/highgui.hpp"
+
+1313156006 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\highgui\highgui_c.h
+	"opencv2/core/core_c.h"
+
+1313156006 f:\graduation_proj\logo_detection\vendor\opencv\include\opencv2\highgui\highgui.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui_c.h"
+
+1335167680 f:\graduation_proj\logo_detection\include\utils.h
+	<string>
+	<vector>
+	<opencv/cv.h>
+	<CImg.h>
+
+1334669362 f:\graduation_proj\logo_detection\include\globals.h
+	<string>
+
+1275037612 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\logger.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/tstring.h>
+	<log4cplus/spi/appenderattachable.h>
+	<log4cplus/spi/loggerfactory.h>
+	<vector>
+	<log4cplus/loggingmacros.h>
+
+1250585962 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\config.hxx
+	<log4cplus/config/win32.h>
+	<log4cplus/config/macosx.h>
+	<log4cplus/config/defines.hxx>
+	<log4cplus/helpers/thread-config.h>
+
+1288721918 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\config\win32.h
+	<windows.h>
+
+1229458614 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\config\macosx.h
+
+1321099424 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\config\defines.hxx
+
+1250558510 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\helpers\thread-config.h
+	<pthread.h>
+	<semaphore.h>
+	<windows.h>
+
+1275037612 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\loglevel.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<vector>
+
+1250558510 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\tstring.h
+	<log4cplus/config.hxx>
+	<string>
+	<locale>
+
+1250558510 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\spi\appenderattachable.h
+	<log4cplus/config.hxx>
+	<log4cplus/appender.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+	<vector>
+
+1275037612 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\appender.h
+	<log4cplus/config.hxx>
+	<log4cplus/layout.h>
+	<log4cplus/loglevel.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/spi/filter.h>
+	<memory>
+
+1280252746 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\layout.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/streams.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/helpers/timehelper.h>
+	<log4cplus/spi/loggingevent.h>
+	<vector>
+
+1250558510 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\streams.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<iostream>
+	<sstream>
+
+1250558510 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\helpers\logloguser.h
+	<log4cplus/config.hxx>
+
+1250558510 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\helpers\property.h
+	<log4cplus/config.hxx>
+	<log4cplus/streams.h>
+	<log4cplus/tstring.h>
+	<map>
+	<vector>
+
+1277223912 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\helpers\timehelper.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<time.h>
+	<ctime>
+
+1251219342 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\spi\loggingevent.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/ndc.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/timehelper.h>
+	<log4cplus/helpers/threads.h>
+
+1291747444 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\ndc.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<map>
+	<stack>
+
+1278930460 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\helpers\threads.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+
+1260386836 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\helpers\pointer.h
+	<log4cplus/config.hxx>
+	<memory>
+	<stdexcept>
+	<string>
+	<algorithm>
+	<cassert>
+
+1275037612 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\spi\filter.h
+	<log4cplus/config.hxx>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/spi/loggingevent.h>
+
+1250558510 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\spi\loggerfactory.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+
+1253535442 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\loggingmacros.h
+	<log4cplus/config.hxx>
+	<log4cplus/streams.h>
+
+1336210964 source:f:\graduation_proj\logo_detection\scr\bayersclassifier.cpp
+	"BayersClassifier.h"
+	"LogoletSimulator.h"
+	"VideoFileReader.h"
+	"globals.h"
+	"neuralNetwork.h"
+	"dataEntry.h"
+	"utils.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<log4cplus/logger.h>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+	<iostream>
+
+1336227769 source:f:\graduation_proj\logo_detection\scr\dfdetector.cpp
+	"DfDetector.h"
+	"VideoFileReader.h"
+	<opencv/cv.h>
+	<log4cplus/logger.h>
+	<vector>
+	<sstream>
+	"utils.h"
+	"globals.h"
+	"LogoletSimulator.h"
+	"VideoReader.h"
+
+1336227747 source:f:\graduation_proj\logo_detection\scr\featuredetector.cpp
+	"FeatureDetector.h"
+	"VideoFileReader.h"
+	"globals.h"
+	<log4cplus/logger.h>
+
+1334838093 source:f:\graduation_proj\logo_detection\scr\logodetector.cpp
+	"LogoDetector.h"
+	"VideoFileReader.h"
+	<opencv/cv.h>
+
+1335431521 source:f:\graduation_proj\logo_detection\scr\logomatch.cpp
+	"LogoMatch.h"
+	<log4cplus/logger.h>
+
+1334106463 source:f:\graduation_proj\logo_detection\scr\logoletsimulator.cpp
+	"LogoletSimulator.h"
+	"dataEntry.h"
+	"utils.h"
+	<log4cplus/logger.h>
+	<iostream>
+
+1335187851 source:f:\graduation_proj\logo_detection\scr\videofilereader.cpp
+	"VideoFileReader.h"
+	<log4cplus/logger.h>
+	<opencv/cv.h>
+	<string>
+
+1334669355 source:f:\graduation_proj\logo_detection\scr\globals.cpp
+	"globals.h"
+
+1335168125 source:f:\graduation_proj\logo_detection\scr\main.cpp
+	<log4cplus/configurator.h>
+	<log4cplus/logger.h>
+	"globals.h"
+	"utils.h"
+	<UnitTest++.h>
+	"BasicLogoDetector.h"
+	<opencv/highgui.h>
+
+1275037612 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\configurator.h
+	<log4cplus/config.hxx>
+	<log4cplus/appender.h>
+	<log4cplus/hierarchy.h>
+	<log4cplus/logger.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<map>
+
+1250558510 f:\graduation_proj\logo_detection\vendor\log4cplus\include\log4cplus\hierarchy.h
+	<log4cplus/config.hxx>
+	<log4cplus/logger.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/threads.h>
+	<map>
+	<memory>
+	<vector>
+
+1335167672 source:f:\graduation_proj\logo_detection\scr\utils.cpp
+	"utils.h"
+	"globals.h"
+	<log4cplus/logger.h>
+	<fstream>
+	<dirent.h>
+
+1334106990 source:f:\graduation_proj\logo_detection\test\test_logoletsimulator.cpp
+	"UnitTest++.h"
+	"LogoletSimulator.h"
+	"utils.h"
+	"dataEntry.h"
+	<opencv/highgui.h>
+
+1334108282 source:f:\graduation_proj\logo_detection\test\test_neuralnetwork.cpp
+	"UnitTest++.h"
+	"neuralNetwork.h"
+	"dataEntry.h"
+	"InputData.h"
+	<vector>
+
+1335163384 source:f:\graduation_proj\logo_detection\test\test_utils.cpp
+	"UnitTest++.h"
+	"utils.h"
+	"pHash.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<iostream>
+	<string>
+	<vector>
+	<assert.h>
+	<log4cplus/logger.h>
+
+1335075457 c:\work\logo_detection\include\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<ctime>
+	<exception>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<io.h>
+	<stdio.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	"omp.h"
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc2.h"
+	"avformat.h"
+	"avcodec.h"
+	"swscale.h"
+	"zlib.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+
+1335190636 source:c:\work\logo_detection\scr\advancedlogomatch.cpp
+	"AdvancedLogoMatch.h"
+	"utils.h"
+
+1335190700 source:c:\work\logo_detection\scr\phash.cpp
+	"pHash.h"
+	"config.h"
+	"cimgffmpeg.h"
+	<pthread.h>
+
+1335190710 c:\work\logo_detection\include\phash.h
+	<pHash-config.h>
+	<unistd.h>
+	<sys/mman.h>
+	<stdint.h>
+	<limits.h>
+	<math.h>
+	"dirent.h"
+	<errno.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"CImg.h"
+	<pthread.h>
+	<sys/param.h>
+	<sys/sysctl.h>
+
+1335190238 c:\work\logo_detection\include\advancedlogomatch.h
+	<map>
+	<string>
+	<utility>
+	"pHash.h"
+	"LogoMatch.h"
+
+1335171438 source:c:\work\logo_detection\test\test_advancedlogomatch.cpp
+	"UnitTest++.h"
+	"AdvancedLogoMatch.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<log4cplus/logger.h>
+	<utility>
+	<string>
+
+1336040680 source:f:\graduation_proj\logo_detection\scr\advancedlogomatch.cpp
+	"AdvancedLogoMatch.h"
+	"utils.h"
+
+1336040675 f:\graduation_proj\logo_detection\include\advancedlogomatch.h
+	<map>
+	<string>
+	<utility>
+	"pHash.h"
+	"LogoMatch.h"
+
+1335190710 f:\graduation_proj\logo_detection\include\phash.h
+	<pHash-config.h>
+	<unistd.h>
+	<sys/mman.h>
+	<stdint.h>
+	<limits.h>
+	<math.h>
+	"dirent.h"
+	<errno.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"CImg.h"
+	<pthread.h>
+	<sys/param.h>
+	<sys/sysctl.h>
+
+1335075457 f:\graduation_proj\logo_detection\include\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<ctime>
+	<exception>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<io.h>
+	<stdio.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	"omp.h"
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc2.h"
+	"avformat.h"
+	"avcodec.h"
+	"swscale.h"
+	"zlib.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+
+1335190700 source:f:\graduation_proj\logo_detection\scr\phash.cpp
+	"pHash.h"
+	"config.h"
+	"cimgffmpeg.h"
+	<pthread.h>
+
+1335432052 source:f:\graduation_proj\logo_detection\test\test_advancedlogomatch.cpp
+	"UnitTest++.h"
+	"AdvancedLogoMatch.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<log4cplus/logger.h>
+	<utility>
+	<string>
+
+1335075457 j:\graduation_proj\logo_detection\include\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<ctime>
+	<exception>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<io.h>
+	<stdio.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	"omp.h"
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc2.h"
+	"avformat.h"
+	"avcodec.h"
+	"swscale.h"
+	"zlib.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+
+1188391710 j:\graduation_proj\logo_detection\vendor\unittest++\scr\unittest++.h
+	"Config.h"
+	"Test.h"
+	"TestList.h"
+	"TestSuite.h"
+	"TestResults.h"
+	"TestMacros.h"
+	"CheckMacros.h"
+	"TestRunner.h"
+	"TimeConstraint.h"
+
+1225399116 j:\graduation_proj\logo_detection\vendor\unittest++\scr\config.h
+
+1225312688 j:\graduation_proj\logo_detection\vendor\unittest++\scr\test.h
+	"TestDetails.h"
+
+1174340056 j:\graduation_proj\logo_detection\vendor\unittest++\scr\testdetails.h
+
+1180492958 j:\graduation_proj\logo_detection\vendor\unittest++\scr\testlist.h
+
+1174340056 j:\graduation_proj\logo_detection\vendor\unittest++\scr\testsuite.h
+
+1174340056 j:\graduation_proj\logo_detection\vendor\unittest++\scr\testresults.h
+
+1225416426 j:\graduation_proj\logo_detection\vendor\unittest++\scr\testmacros.h
+	"Config.h"
+	"ExecuteTest.h"
+	"AssertException.h"
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"Posix/SignalTranslator.h"
+
+1225312688 j:\graduation_proj\logo_detection\vendor\unittest++\scr\executetest.h
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"AssertException.h"
+	"CurrentTest.h"
+	"Posix/SignalTranslator.h"
+
+1174340056 j:\graduation_proj\logo_detection\vendor\unittest++\scr\memoryoutstream.h
+	"Config.h"
+	<sstream>
+	<cstddef>
+
+1174340056 j:\graduation_proj\logo_detection\vendor\unittest++\scr\assertexception.h
+	<exception>
+
+1225312688 j:\graduation_proj\logo_detection\vendor\unittest++\scr\currenttest.h
+
+1224709002 j:\graduation_proj\logo_detection\vendor\unittest++\scr\posix\signaltranslator.h
+	<setjmp.h>
+	<signal.h>
+
+1225312688 j:\graduation_proj\logo_detection\vendor\unittest++\scr\checkmacros.h
+	"Checks.h"
+	"AssertException.h"
+	"MemoryOutStream.h"
+	"TestDetails.h"
+	"CurrentTest.h"
+
+1225398462 j:\graduation_proj\logo_detection\vendor\unittest++\scr\checks.h
+	"Config.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+
+1225312688 j:\graduation_proj\logo_detection\vendor\unittest++\scr\testrunner.h
+	"Test.h"
+	"TestList.h"
+	"CurrentTest.h"
+
+1225312688 j:\graduation_proj\logo_detection\vendor\unittest++\scr\timeconstraint.h
+	"TimeHelpers.h"
+
+1174340056 j:\graduation_proj\logo_detection\vendor\unittest++\scr\timehelpers.h
+	"Config.h"
+	"Posix/TimeHelpers.h"
+	"Win32/TimeHelpers.h"
+
+1174340056 j:\graduation_proj\logo_detection\vendor\unittest++\scr\posix\timehelpers.h
+	<sys/time.h>
+
+1225399116 j:\graduation_proj\logo_detection\vendor\unittest++\scr\win32\timehelpers.h
+	"../Config.h"
+
+1335190710 j:\graduation_proj\logo_detection\include\phash.h
+	<pHash-config.h>
+	<unistd.h>
+	<sys/mman.h>
+	<stdint.h>
+	<limits.h>
+	<math.h>
+	"dirent.h"
+	<errno.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"CImg.h"
+	<pthread.h>
+	<sys/param.h>
+	<sys/sysctl.h>
+
+1336040680 source:j:\graduation_proj\logo_detection\scr\advancedlogomatch.cpp
+	"AdvancedLogoMatch.h"
+	"utils.h"
+
+1336040675 j:\graduation_proj\logo_detection\include\advancedlogomatch.h
+	<map>
+	<string>
+	<utility>
+	"pHash.h"
+	"LogoMatch.h"
+
+1335190700 source:j:\graduation_proj\logo_detection\scr\phash.cpp
+	"pHash.h"
+	"config.h"
+	"cimgffmpeg.h"
+	<pthread.h>
+
+1335432052 source:j:\graduation_proj\logo_detection\test\test_advancedlogomatch.cpp
+	"UnitTest++.h"
+	"AdvancedLogoMatch.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<log4cplus/logger.h>
+	<utility>
+	<string>
+
+1336040680 source:j:\graduation_proj\logo_detection_dev\scr\advancedlogomatch.cpp
+	"AdvancedLogoMatch.h"
+	"utils.h"
+
+1336040675 j:\graduation_proj\logo_detection_dev\include\advancedlogomatch.h
+	<map>
+	<string>
+	<utility>
+	"pHash.h"
+	"LogoMatch.h"
+
+1335190710 j:\graduation_proj\logo_detection_dev\include\phash.h
+	<pHash-config.h>
+	<unistd.h>
+	<sys/mman.h>
+	<stdint.h>
+	<limits.h>
+	<math.h>
+	"dirent.h"
+	<errno.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"CImg.h"
+	<pthread.h>
+	<sys/param.h>
+	<sys/sysctl.h>
+
+1335075457 j:\graduation_proj\logo_detection_dev\include\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<ctime>
+	<exception>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<io.h>
+	<stdio.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	"omp.h"
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc2.h"
+	"avformat.h"
+	"avcodec.h"
+	"swscale.h"
+	"zlib.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+
+1335431707 j:\graduation_proj\logo_detection_dev\include\logomatch.h
+	<map>
+	<string>
+	<utility>
+	<opencv/cv.h>
+
+1313155320 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv\cv.h
+	"opencv2/core/core_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/video/tracking.hpp"
+	"opencv2/features2d/features2d.hpp"
+	"opencv2/flann/flann.hpp"
+	"opencv2/calib3d/calib3d.hpp"
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/legacy/compat.hpp"
+	"opencv2/core/internal.hpp"
+
+1313156036 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\core\core_c.h
+	"opencv2/core/types_c.h"
+
+1313156036 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\core\types_c.h
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	<stdint.h>
+	<intrin.h>
+	<emmintrin.h>
+	<fastmath.h>
+	<math.h>
+	<ipl.h>
+	<ipl/ipl.h>
+
+1313447658 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\core\core.hpp
+	"opencv2/core/types_c.h"
+	"opencv2/core/version.hpp"
+	<limits.h>
+	<algorithm>
+	<cmath>
+	<cstddef>
+	<complex>
+	<map>
+	<new>
+	<string>
+	<vector>
+	"opencv2/core/operations.hpp"
+	"opencv2/core/mat.hpp"
+
+1313156036 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\core\version.hpp
+
+1313447658 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\core\operations.hpp
+	<string.h>
+	<limits.h>
+	<ext/atomicity.h>
+	<bits/atomicity.h>
+	<intrin.h>
+	<limits>
+
+1313156036 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\core\mat.hpp
+	<limits.h>
+	<string.h>
+
+1313156060 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\imgproc\imgproc_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+
+1313156060 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\imgproc\types_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+
+1313156060 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\imgproc\imgproc.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/types_c.h"
+
+1313156088 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\video\tracking.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+
+1313156088 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\features2d\features2d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+	<limits>
+
+1313355944 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\miniflann.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/defines.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\defines.h
+	"config.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\config.h
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\flann.hpp
+	"opencv2/core/types_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/flann/flann_base.hpp"
+	"opencv2/flann/miniflann.hpp"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\flann_base.hpp
+	<vector>
+	<string>
+	<cassert>
+	<cstdio>
+	"general.h"
+	"matrix.h"
+	"params.h"
+	"saving.h"
+	"all_indices.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\general.h
+	"defines.h"
+	<stdexcept>
+	<cassert>
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\matrix.h
+	<stdio.h>
+	"general.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\params.h
+	"any.h"
+	"general.h"
+	<iostream>
+	<map>
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\any.h
+	<stdexcept>
+	<ostream>
+	<typeinfo>
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\saving.h
+	<cstring>
+	<vector>
+	"general.h"
+	"nn_index.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\nn_index.h
+	<string>
+	"general.h"
+	"matrix.h"
+	"result_set.h"
+	"params.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\result_set.h
+	<algorithm>
+	<cstring>
+	<iostream>
+	<limits>
+	<set>
+	<vector>
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\all_indices.h
+	"general.h"
+	"nn_index.h"
+	"kdtree_index.h"
+	"kdtree_single_index.h"
+	"kmeans_index.h"
+	"composite_index.h"
+	"linear_index.h"
+	"hierarchical_clustering_index.h"
+	"lsh_index.h"
+	"autotuned_index.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\kdtree_index.h
+	<algorithm>
+	<map>
+	<cassert>
+	<cstring>
+	"general.h"
+	"nn_index.h"
+	"dynamic_bitset.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\dynamic_bitset.h
+	<boost/dynamic_bitset.hpp>
+	<limits.h>
+	"dist.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\dist.h
+	<cmath>
+	<cstdlib>
+	<string.h>
+	<stdint.h>
+	"defines.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\heap.h
+	<algorithm>
+	<vector>
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\allocator.h
+	<stdlib.h>
+	<stdio.h>
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\random.h
+	<algorithm>
+	<cstdlib>
+	<vector>
+	"general.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\kdtree_single_index.h
+	<algorithm>
+	<map>
+	<cassert>
+	<cstring>
+	"general.h"
+	"nn_index.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\kmeans_index.h
+	<algorithm>
+	<string>
+	<map>
+	<cassert>
+	<limits>
+	<cmath>
+	"general.h"
+	"nn_index.h"
+	"dist.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+	"logger.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\logger.h
+	<stdio.h>
+	<stdarg.h>
+	"defines.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\composite_index.h
+	"general.h"
+	"nn_index.h"
+	"kdtree_index.h"
+	"kmeans_index.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\linear_index.h
+	"general.h"
+	"nn_index.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\hierarchical_clustering_index.h
+	<algorithm>
+	<string>
+	<map>
+	<cassert>
+	<limits>
+	<cmath>
+	"general.h"
+	"nn_index.h"
+	"dist.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\lsh_index.h
+	<algorithm>
+	<cassert>
+	<cstring>
+	<map>
+	<vector>
+	"general.h"
+	"nn_index.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"lsh_table.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\lsh_table.h
+	<algorithm>
+	<iostream>
+	<iomanip>
+	<limits.h>
+	<unordered_map>
+	<map>
+	<math.h>
+	<stddef.h>
+	"dynamic_bitset.h"
+	"matrix.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\autotuned_index.h
+	"general.h"
+	"nn_index.h"
+	"ground_truth.h"
+	"index_testing.h"
+	"sampling.h"
+	"kdtree_index.h"
+	"kdtree_single_index.h"
+	"kmeans_index.h"
+	"composite_index.h"
+	"linear_index.h"
+	"logger.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\ground_truth.h
+	"dist.h"
+	"matrix.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\index_testing.h
+	<cstring>
+	<cassert>
+	<cmath>
+	"matrix.h"
+	"nn_index.h"
+	"result_set.h"
+	"logger.h"
+	"timer.h"
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\timer.h
+	<time.h>
+
+1313156056 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\flann\sampling.h
+	"matrix.h"
+	"random.h"
+
+1313156070 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\calib3d\calib3d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+
+1313355946 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\objdetect\objdetect.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+	<deque>
+
+1313156076 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\legacy\compat.hpp
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+	<math.h>
+	<string.h>
+
+1313532340 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\core\internal.hpp
+	<vector>
+	<windows.h>
+	<pthread.h>
+	<sys/mman.h>
+	"ipp.h"
+	"emmintrin.h"
+	"pmmintrin.h"
+	"arm_neon.h"
+	"tbb/tbb_stddef.h"
+	"tbb/tbb.h"
+	"tbb/task.h"
+	<Eigen/Core>
+	"opencv2/core/eigen.hpp"
+	"threading_framework.hpp"
+	<malloc.h>
+	<alloca.h>
+	<stdlib.h>
+
+1313156036 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\core\eigen.hpp
+	"cxcore.h"
+
+1335167680 j:\graduation_proj\logo_detection_dev\include\utils.h
+	<string>
+	<vector>
+	<opencv/cv.h>
+	<CImg.h>
+
+1336040983 source:j:\graduation_proj\logo_detection_dev\scr\basiclogodetector.cpp
+	"BasicLogoDetector.h"
+	"VideoFileReader.h"
+	"LogoMatch.h"
+	"AdvancedLogoMatch.h"
+	"utils.h"
+	"globals.h"
+	<opencv/cv.h>
+	<log4cplus/logger.h>
+	<cmath>
+	<fstream>
+	<string>
+	<vector>
+	<map>
+
+1335168776 j:\graduation_proj\logo_detection_dev\include\basiclogodetector.h
+	"LogoDetector.h"
+	"BayersClassifier.h"
+	"DfDetector.h"
+	"FeatureDetector.h"
+	<opencv/cv.h>
+	<tr1/memory>
+
+1334838296 j:\graduation_proj\logo_detection_dev\include\logodetector.h
+	"LogoletSimulator.h"
+	<tr1/memory>
+	<string>
+	<vector>
+	<opencv/cv.h>
+
+1334046718 j:\graduation_proj\logo_detection_dev\include\logoletsimulator.h
+	<opencv/cv.h>
+	<vector>
+	<tr1/memory>
+
+1334389714 j:\graduation_proj\logo_detection_dev\include\bayersclassifier.h
+	<string>
+	<tr1/memory>
+	"neuralNetwork.h"
+	"InputData.h"
+
+1334382257 j:\graduation_proj\logo_detection_dev\include\neuralnetwork.h
+	<stdlib.h>
+	<math.h>
+	<ctime>
+	<vector>
+	<fstream>
+	<sstream>
+	"dataEntry.h"
+
+1206341092 j:\graduation_proj\logo_detection_dev\include\dataentry.h
+	<iostream>
+	<vector>
+
+1334047164 j:\graduation_proj\logo_detection_dev\include\inputdata.h
+	<vector>
+	<fstream>
+	<string.h>
+	<math.h>
+	<algorithm>
+	"dataEntry.h"
+
+1334837698 j:\graduation_proj\logo_detection_dev\include\dfdetector.h
+	<opencv/cv.h>
+	<tr1/memory>
+	<vector>
+	"LogoDetector.h"
+
+1334837785 j:\graduation_proj\logo_detection_dev\include\featuredetector.h
+	"BayersClassifier.h"
+	"LogoDetector.h"
+	<string>
+
+1334232392 j:\graduation_proj\logo_detection_dev\include\videofilereader.h
+	"VideoReader.h"
+	<opencv/highgui.h>
+	<iostream>
+	<string>
+
+1334232709 j:\graduation_proj\logo_detection_dev\include\videoreader.h
+	<string>
+
+1313155318 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv\highgui.h
+	"opencv2/core/core_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui_c.h"
+	"opencv2/highgui/highgui.hpp"
+
+1313156006 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\highgui\highgui_c.h
+	"opencv2/core/core_c.h"
+
+1313156006 j:\graduation_proj\logo_detection_dev\vendor\opencv\include\opencv2\highgui\highgui.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui_c.h"
+
+1334669362 j:\graduation_proj\logo_detection_dev\include\globals.h
+	<string>
+
+1275037612 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\logger.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/tstring.h>
+	<log4cplus/spi/appenderattachable.h>
+	<log4cplus/spi/loggerfactory.h>
+	<vector>
+	<log4cplus/loggingmacros.h>
+
+1250585962 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\config.hxx
+	<log4cplus/config/win32.h>
+	<log4cplus/config/macosx.h>
+	<log4cplus/config/defines.hxx>
+	<log4cplus/helpers/thread-config.h>
+
+1288721918 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\config\win32.h
+	<windows.h>
+
+1229458614 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\config\macosx.h
+
+1321099424 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\config\defines.hxx
+
+1250558510 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\helpers\thread-config.h
+	<pthread.h>
+	<semaphore.h>
+	<windows.h>
+
+1275037612 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\loglevel.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<vector>
+
+1250558510 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\tstring.h
+	<log4cplus/config.hxx>
+	<string>
+	<locale>
+
+1250558510 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\spi\appenderattachable.h
+	<log4cplus/config.hxx>
+	<log4cplus/appender.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+	<vector>
+
+1275037612 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\appender.h
+	<log4cplus/config.hxx>
+	<log4cplus/layout.h>
+	<log4cplus/loglevel.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/spi/filter.h>
+	<memory>
+
+1280252746 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\layout.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/streams.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/helpers/timehelper.h>
+	<log4cplus/spi/loggingevent.h>
+	<vector>
+
+1250558510 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\streams.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<iostream>
+	<sstream>
+
+1250558510 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\helpers\logloguser.h
+	<log4cplus/config.hxx>
+
+1250558510 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\helpers\property.h
+	<log4cplus/config.hxx>
+	<log4cplus/streams.h>
+	<log4cplus/tstring.h>
+	<map>
+	<vector>
+
+1277223912 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\helpers\timehelper.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<time.h>
+	<ctime>
+
+1251219342 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\spi\loggingevent.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/ndc.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/timehelper.h>
+	<log4cplus/helpers/threads.h>
+
+1291747444 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\ndc.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<map>
+	<stack>
+
+1278930460 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\helpers\threads.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+
+1260386836 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\helpers\pointer.h
+	<log4cplus/config.hxx>
+	<memory>
+	<stdexcept>
+	<string>
+	<algorithm>
+	<cassert>
+
+1275037612 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\spi\filter.h
+	<log4cplus/config.hxx>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/spi/loggingevent.h>
+
+1250558510 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\spi\loggerfactory.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+
+1253535442 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\loggingmacros.h
+	<log4cplus/config.hxx>
+	<log4cplus/streams.h>
+
+1336648874 source:j:\graduation_proj\logo_detection_dev\scr\bayersclassifier.cpp
+	"BayersClassifier.h"
+	"LogoletSimulator.h"
+	"VideoFileReader.h"
+	"globals.h"
+	"neuralNetwork.h"
+	"dataEntry.h"
+	"utils.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<log4cplus/logger.h>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+	<iostream>
+
+1336227769 source:j:\graduation_proj\logo_detection_dev\scr\dfdetector.cpp
+	"DfDetector.h"
+	"VideoFileReader.h"
+	<opencv/cv.h>
+	<log4cplus/logger.h>
+	<vector>
+	<sstream>
+	"utils.h"
+	"globals.h"
+	"LogoletSimulator.h"
+	"VideoReader.h"
+
+1336648799 source:j:\graduation_proj\logo_detection_dev\scr\featuredetector.cpp
+	"FeatureDetector.h"
+	"VideoFileReader.h"
+	"globals.h"
+	<log4cplus/logger.h>
+
+1334838093 source:j:\graduation_proj\logo_detection_dev\scr\logodetector.cpp
+	"LogoDetector.h"
+	"VideoFileReader.h"
+	<opencv/cv.h>
+
+1335431521 source:j:\graduation_proj\logo_detection_dev\scr\logomatch.cpp
+	"LogoMatch.h"
+	<log4cplus/logger.h>
+
+1334106463 source:j:\graduation_proj\logo_detection_dev\scr\logoletsimulator.cpp
+	"LogoletSimulator.h"
+	"dataEntry.h"
+	"utils.h"
+	<log4cplus/logger.h>
+	<iostream>
+
+1335187851 source:j:\graduation_proj\logo_detection_dev\scr\videofilereader.cpp
+	"VideoFileReader.h"
+	<log4cplus/logger.h>
+	<opencv/cv.h>
+	<string>
+
+1334669355 source:j:\graduation_proj\logo_detection_dev\scr\globals.cpp
+	"globals.h"
+
+1337214731 source:j:\graduation_proj\logo_detection_dev\scr\main.cpp
+	<log4cplus/configurator.h>
+	<log4cplus/logger.h>
+	"globals.h"
+	"utils.h"
+	<UnitTest++.h>
+	"BasicLogoDetector.h"
+	<opencv/highgui.h>
+
+1275037612 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\configurator.h
+	<log4cplus/config.hxx>
+	<log4cplus/appender.h>
+	<log4cplus/hierarchy.h>
+	<log4cplus/logger.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<map>
+
+1250558510 j:\graduation_proj\logo_detection_dev\vendor\log4cplus\include\log4cplus\hierarchy.h
+	<log4cplus/config.hxx>
+	<log4cplus/logger.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/threads.h>
+	<map>
+	<memory>
+	<vector>
+
+1188391710 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\unittest++.h
+	"Config.h"
+	"Test.h"
+	"TestList.h"
+	"TestSuite.h"
+	"TestResults.h"
+	"TestMacros.h"
+	"CheckMacros.h"
+	"TestRunner.h"
+	"TimeConstraint.h"
+
+1225399116 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\config.h
+
+1225312688 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\test.h
+	"TestDetails.h"
+
+1174340056 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\testdetails.h
+
+1180492958 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\testlist.h
+
+1174340056 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\testsuite.h
+
+1174340056 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\testresults.h
+
+1225416426 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\testmacros.h
+	"Config.h"
+	"ExecuteTest.h"
+	"AssertException.h"
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"Posix/SignalTranslator.h"
+
+1225312688 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\executetest.h
+	"TestDetails.h"
+	"MemoryOutStream.h"
+	"AssertException.h"
+	"CurrentTest.h"
+	"Posix/SignalTranslator.h"
+
+1174340056 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\memoryoutstream.h
+	"Config.h"
+	<sstream>
+	<cstddef>
+
+1174340056 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\assertexception.h
+	<exception>
+
+1225312688 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\currenttest.h
+
+1224709002 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\posix\signaltranslator.h
+	<setjmp.h>
+	<signal.h>
+
+1225312688 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\checkmacros.h
+	"Checks.h"
+	"AssertException.h"
+	"MemoryOutStream.h"
+	"TestDetails.h"
+	"CurrentTest.h"
+
+1225398462 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\checks.h
+	"Config.h"
+	"TestResults.h"
+	"MemoryOutStream.h"
+
+1225312688 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\testrunner.h
+	"Test.h"
+	"TestList.h"
+	"CurrentTest.h"
+
+1225312688 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\timeconstraint.h
+	"TimeHelpers.h"
+
+1174340056 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\timehelpers.h
+	"Config.h"
+	"Posix/TimeHelpers.h"
+	"Win32/TimeHelpers.h"
+
+1174340056 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\posix\timehelpers.h
+	<sys/time.h>
+
+1225399116 j:\graduation_proj\logo_detection_dev\vendor\unittest++\scr\win32\timehelpers.h
+	"../Config.h"
+
+1335190700 source:j:\graduation_proj\logo_detection_dev\scr\phash.cpp
+	"pHash.h"
+	"config.h"
+	"cimgffmpeg.h"
+	<pthread.h>
+
+1335167672 source:j:\graduation_proj\logo_detection_dev\scr\utils.cpp
+	"utils.h"
+	"globals.h"
+	<log4cplus/logger.h>
+	<fstream>
+	<dirent.h>
+
+1337215645 source:j:\graduation_proj\logo_detection_dev\test\test_advancedlogomatch.cpp
+	"UnitTest++.h"
+	"AdvancedLogoMatch.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<log4cplus/logger.h>
+	<utility>
+	<string>
+
+1334106990 source:j:\graduation_proj\logo_detection_dev\test\test_logoletsimulator.cpp
+	"UnitTest++.h"
+	"LogoletSimulator.h"
+	"utils.h"
+	"dataEntry.h"
+	<opencv/highgui.h>
+
+1334108282 source:j:\graduation_proj\logo_detection_dev\test\test_neuralnetwork.cpp
+	"UnitTest++.h"
+	"neuralNetwork.h"
+	"dataEntry.h"
+	"InputData.h"
+	<vector>
+
+1335163384 source:j:\graduation_proj\logo_detection_dev\test\test_utils.cpp
+	"UnitTest++.h"
+	"utils.h"
+	"pHash.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<iostream>
+	<string>
+	<vector>
+	<assert.h>
+	<log4cplus/logger.h>
+
+1336040682 source:d:\cppworkspace\logo_detection\logo_detection_dev\scr\advancedlogomatch.cpp
+	"AdvancedLogoMatch.h"
+	"utils.h"
+
+1336040676 d:\cppworkspace\logo_detection\logo_detection_dev\include\advancedlogomatch.h
+	<map>
+	<string>
+	<utility>
+	"pHash.h"
+	"LogoMatch.h"
+
+1335190712 d:\cppworkspace\logo_detection\logo_detection_dev\include\phash.h
+	<pHash-config.h>
+	<unistd.h>
+	<sys/mman.h>
+	<stdint.h>
+	<limits.h>
+	<math.h>
+	"dirent.h"
+	<errno.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"CImg.h"
+	<pthread.h>
+	<sys/param.h>
+	<sys/sysctl.h>
+
+1335075458 d:\cppworkspace\logo_detection\logo_detection_dev\include\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<ctime>
+	<exception>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<io.h>
+	<stdio.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	"omp.h"
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc2.h"
+	"avformat.h"
+	"avcodec.h"
+	"swscale.h"
+	"zlib.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+
+1335431708 d:\cppworkspace\logo_detection\logo_detection_dev\include\logomatch.h
+	<map>
+	<string>
+	<utility>
+	<opencv/cv.h>
+
+1313155320 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv\cv.h
+	"opencv2/core/core_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/video/tracking.hpp"
+	"opencv2/features2d/features2d.hpp"
+	"opencv2/flann/flann.hpp"
+	"opencv2/calib3d/calib3d.hpp"
+	"opencv2/objdetect/objdetect.hpp"
+	"opencv2/legacy/compat.hpp"
+	"opencv2/core/internal.hpp"
+
+1313156036 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\core\core_c.h
+	"opencv2/core/types_c.h"
+
+1313156036 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\core\types_c.h
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	<stdint.h>
+	<intrin.h>
+	<emmintrin.h>
+	<fastmath.h>
+	<math.h>
+	<ipl.h>
+	<ipl/ipl.h>
+
+1313447658 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\core\core.hpp
+	"opencv2/core/types_c.h"
+	"opencv2/core/version.hpp"
+	<limits.h>
+	<algorithm>
+	<cmath>
+	<cstddef>
+	<complex>
+	<map>
+	<new>
+	<string>
+	<vector>
+	"opencv2/core/operations.hpp"
+	"opencv2/core/mat.hpp"
+
+1313156036 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\core\version.hpp
+
+1313447658 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\core\operations.hpp
+	<string.h>
+	<limits.h>
+	<ext/atomicity.h>
+	<bits/atomicity.h>
+	<intrin.h>
+	<limits>
+
+1313156036 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\core\mat.hpp
+	<limits.h>
+	<string.h>
+
+1313156060 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\imgproc\imgproc_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+
+1313156060 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\imgproc\types_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+
+1313156060 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\imgproc\imgproc.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/types_c.h"
+
+1313156088 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\video\tracking.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+
+1313156088 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\features2d\features2d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+	<limits>
+
+1313355944 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\miniflann.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/flann/defines.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\defines.h
+	"config.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\config.h
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\flann.hpp
+	"opencv2/core/types_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/flann/flann_base.hpp"
+	"opencv2/flann/miniflann.hpp"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\flann_base.hpp
+	<vector>
+	<string>
+	<cassert>
+	<cstdio>
+	"general.h"
+	"matrix.h"
+	"params.h"
+	"saving.h"
+	"all_indices.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\general.h
+	"defines.h"
+	<stdexcept>
+	<cassert>
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\matrix.h
+	<stdio.h>
+	"general.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\params.h
+	"any.h"
+	"general.h"
+	<iostream>
+	<map>
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\any.h
+	<stdexcept>
+	<ostream>
+	<typeinfo>
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\saving.h
+	<cstring>
+	<vector>
+	"general.h"
+	"nn_index.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\nn_index.h
+	<string>
+	"general.h"
+	"matrix.h"
+	"result_set.h"
+	"params.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\result_set.h
+	<algorithm>
+	<cstring>
+	<iostream>
+	<limits>
+	<set>
+	<vector>
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\all_indices.h
+	"general.h"
+	"nn_index.h"
+	"kdtree_index.h"
+	"kdtree_single_index.h"
+	"kmeans_index.h"
+	"composite_index.h"
+	"linear_index.h"
+	"hierarchical_clustering_index.h"
+	"lsh_index.h"
+	"autotuned_index.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\kdtree_index.h
+	<algorithm>
+	<map>
+	<cassert>
+	<cstring>
+	"general.h"
+	"nn_index.h"
+	"dynamic_bitset.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\dynamic_bitset.h
+	<boost/dynamic_bitset.hpp>
+	<limits.h>
+	"dist.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\dist.h
+	<cmath>
+	<cstdlib>
+	<string.h>
+	<stdint.h>
+	"defines.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\heap.h
+	<algorithm>
+	<vector>
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\allocator.h
+	<stdlib.h>
+	<stdio.h>
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\random.h
+	<algorithm>
+	<cstdlib>
+	<vector>
+	"general.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\kdtree_single_index.h
+	<algorithm>
+	<map>
+	<cassert>
+	<cstring>
+	"general.h"
+	"nn_index.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\kmeans_index.h
+	<algorithm>
+	<string>
+	<map>
+	<cassert>
+	<limits>
+	<cmath>
+	"general.h"
+	"nn_index.h"
+	"dist.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+	"logger.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\logger.h
+	<stdio.h>
+	<stdarg.h>
+	"defines.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\composite_index.h
+	"general.h"
+	"nn_index.h"
+	"kdtree_index.h"
+	"kmeans_index.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\linear_index.h
+	"general.h"
+	"nn_index.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\hierarchical_clustering_index.h
+	<algorithm>
+	<string>
+	<map>
+	<cassert>
+	<limits>
+	<cmath>
+	"general.h"
+	"nn_index.h"
+	"dist.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\lsh_index.h
+	<algorithm>
+	<cassert>
+	<cstring>
+	<map>
+	<vector>
+	"general.h"
+	"nn_index.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"lsh_table.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\lsh_table.h
+	<algorithm>
+	<iostream>
+	<iomanip>
+	<limits.h>
+	<unordered_map>
+	<map>
+	<math.h>
+	<stddef.h>
+	"dynamic_bitset.h"
+	"matrix.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\autotuned_index.h
+	"general.h"
+	"nn_index.h"
+	"ground_truth.h"
+	"index_testing.h"
+	"sampling.h"
+	"kdtree_index.h"
+	"kdtree_single_index.h"
+	"kmeans_index.h"
+	"composite_index.h"
+	"linear_index.h"
+	"logger.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\ground_truth.h
+	"dist.h"
+	"matrix.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\index_testing.h
+	<cstring>
+	<cassert>
+	<cmath>
+	"matrix.h"
+	"nn_index.h"
+	"result_set.h"
+	"logger.h"
+	"timer.h"
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\timer.h
+	<time.h>
+
+1313156056 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\flann\sampling.h
+	"matrix.h"
+	"random.h"
+
+1313156070 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\calib3d\calib3d.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+
+1313355946 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\objdetect\objdetect.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/features2d/features2d.hpp"
+	<deque>
+
+1313156076 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\legacy\compat.hpp
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/types_c.h"
+	<math.h>
+	<string.h>
+
+1313532340 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\core\internal.hpp
+	<vector>
+	<windows.h>
+	<pthread.h>
+	<sys/mman.h>
+	"ipp.h"
+	"emmintrin.h"
+	"pmmintrin.h"
+	"arm_neon.h"
+	"tbb/tbb_stddef.h"
+	"tbb/tbb.h"
+	"tbb/task.h"
+	<Eigen/Core>
+	"opencv2/core/eigen.hpp"
+	"threading_framework.hpp"
+	<malloc.h>
+	<alloca.h>
+	<stdlib.h>
+
+1313156036 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\core\eigen.hpp
+	"cxcore.h"
+
+1335167682 d:\cppworkspace\logo_detection\logo_detection_dev\include\utils.h
+	<string>
+	<vector>
+	<opencv/cv.h>
+	<CImg.h>
+
+1336040984 source:d:\cppworkspace\logo_detection\logo_detection_dev\scr\basiclogodetector.cpp
+	"BasicLogoDetector.h"
+	"VideoFileReader.h"
+	"LogoMatch.h"
+	"AdvancedLogoMatch.h"
+	"utils.h"
+	"globals.h"
+	<opencv/cv.h>
+	<log4cplus/logger.h>
+	<cmath>
+	<fstream>
+	<string>
+	<vector>
+	<map>
+
+1335168778 d:\cppworkspace\logo_detection\logo_detection_dev\include\basiclogodetector.h
+	"LogoDetector.h"
+	"BayersClassifier.h"
+	"DfDetector.h"
+	"FeatureDetector.h"
+	<opencv/cv.h>
+	<tr1/memory>
+
+1334838298 d:\cppworkspace\logo_detection\logo_detection_dev\include\logodetector.h
+	"LogoletSimulator.h"
+	<tr1/memory>
+	<string>
+	<vector>
+	<opencv/cv.h>
+
+1334046718 d:\cppworkspace\logo_detection\logo_detection_dev\include\logoletsimulator.h
+	<opencv/cv.h>
+	<vector>
+	<tr1/memory>
+
+1334389716 d:\cppworkspace\logo_detection\logo_detection_dev\include\bayersclassifier.h
+	<string>
+	<tr1/memory>
+	"neuralNetwork.h"
+	"InputData.h"
+
+1334382258 d:\cppworkspace\logo_detection\logo_detection_dev\include\neuralnetwork.h
+	<stdlib.h>
+	<math.h>
+	<ctime>
+	<vector>
+	<fstream>
+	<sstream>
+	"dataEntry.h"
+
+1206341092 d:\cppworkspace\logo_detection\logo_detection_dev\include\dataentry.h
+	<iostream>
+	<vector>
+
+1334047164 d:\cppworkspace\logo_detection\logo_detection_dev\include\inputdata.h
+	<vector>
+	<fstream>
+	<string.h>
+	<math.h>
+	<algorithm>
+	"dataEntry.h"
+
+1334837700 d:\cppworkspace\logo_detection\logo_detection_dev\include\dfdetector.h
+	<opencv/cv.h>
+	<tr1/memory>
+	<vector>
+	"LogoDetector.h"
+
+1334837786 d:\cppworkspace\logo_detection\logo_detection_dev\include\featuredetector.h
+	"BayersClassifier.h"
+	"LogoDetector.h"
+	<string>
+
+1334232394 d:\cppworkspace\logo_detection\logo_detection_dev\include\videofilereader.h
+	"VideoReader.h"
+	<opencv/highgui.h>
+	<iostream>
+	<string>
+
+1334232710 d:\cppworkspace\logo_detection\logo_detection_dev\include\videoreader.h
+	<string>
+
+1313155318 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv\highgui.h
+	"opencv2/core/core_c.h"
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui_c.h"
+	"opencv2/highgui/highgui.hpp"
+
+1313156006 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\highgui\highgui_c.h
+	"opencv2/core/core_c.h"
+
+1313156006 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\opencv\include\opencv2\highgui\highgui.hpp
+	"opencv2/core/core.hpp"
+	"opencv2/highgui/highgui_c.h"
+
+1334669364 d:\cppworkspace\logo_detection\logo_detection_dev\include\globals.h
+	<string>
+
+1275037612 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\logger.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/tstring.h>
+	<log4cplus/spi/appenderattachable.h>
+	<log4cplus/spi/loggerfactory.h>
+	<vector>
+	<log4cplus/loggingmacros.h>
+
+1250585962 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\config.hxx
+	<log4cplus/config/win32.h>
+	<log4cplus/config/macosx.h>
+	<log4cplus/config/defines.hxx>
+	<log4cplus/helpers/thread-config.h>
+
+1288721918 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\config\win32.h
+	<windows.h>
+
+1229462214 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\config\macosx.h
+
+1321103024 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\config\defines.hxx
+
+1250558510 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\helpers\thread-config.h
+	<pthread.h>
+	<semaphore.h>
+	<windows.h>
+
+1275037612 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\loglevel.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<vector>
+
+1250558510 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\tstring.h
+	<log4cplus/config.hxx>
+	<string>
+	<locale>
+
+1250558510 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\spi\appenderattachable.h
+	<log4cplus/config.hxx>
+	<log4cplus/appender.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+	<vector>
+
+1275037612 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\appender.h
+	<log4cplus/config.hxx>
+	<log4cplus/layout.h>
+	<log4cplus/loglevel.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/spi/filter.h>
+	<memory>
+
+1280252746 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\layout.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/streams.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/helpers/timehelper.h>
+	<log4cplus/spi/loggingevent.h>
+	<vector>
+
+1250558510 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\streams.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<iostream>
+	<sstream>
+
+1250558510 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\helpers\logloguser.h
+	<log4cplus/config.hxx>
+
+1250558510 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\helpers\property.h
+	<log4cplus/config.hxx>
+	<log4cplus/streams.h>
+	<log4cplus/tstring.h>
+	<map>
+	<vector>
+
+1277223912 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\helpers\timehelper.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<time.h>
+	<ctime>
+
+1251219342 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\spi\loggingevent.h
+	<log4cplus/config.hxx>
+	<log4cplus/loglevel.h>
+	<log4cplus/ndc.h>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/timehelper.h>
+	<log4cplus/helpers/threads.h>
+
+1291751044 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\ndc.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/logloguser.h>
+	<map>
+	<stack>
+
+1278930460 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\helpers\threads.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+
+1260390436 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\helpers\pointer.h
+	<log4cplus/config.hxx>
+	<memory>
+	<stdexcept>
+	<string>
+	<algorithm>
+	<cassert>
+
+1275037612 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\spi\filter.h
+	<log4cplus/config.hxx>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<log4cplus/spi/loggingevent.h>
+
+1250558510 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\spi\loggerfactory.h
+	<log4cplus/config.hxx>
+	<log4cplus/tstring.h>
+	<log4cplus/helpers/pointer.h>
+
+1253535442 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\loggingmacros.h
+	<log4cplus/config.hxx>
+	<log4cplus/streams.h>
+
+1336648876 source:d:\cppworkspace\logo_detection\logo_detection_dev\scr\bayersclassifier.cpp
+	"BayersClassifier.h"
+	"LogoletSimulator.h"
+	"VideoFileReader.h"
+	"globals.h"
+	"neuralNetwork.h"
+	"dataEntry.h"
+	"utils.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<log4cplus/logger.h>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+	<iostream>
+
+1336227770 source:d:\cppworkspace\logo_detection\logo_detection_dev\scr\dfdetector.cpp
+	"DfDetector.h"
+	"VideoFileReader.h"
+	<opencv/cv.h>
+	<log4cplus/logger.h>
+	<vector>
+	<sstream>
+	"utils.h"
+	"globals.h"
+	"LogoletSimulator.h"
+	"VideoReader.h"
+
+1366694904 source:d:\cppworkspace\logo_detection\logo_detection_dev\scr\featuredetector.cpp
+	"FeatureDetector.h"
+	"VideoFileReader.h"
+	"globals.h"
+	<log4cplus/logger.h>
+
+1334669356 source:d:\cppworkspace\logo_detection\logo_detection_dev\scr\globals.cpp
+	"globals.h"
+
+1334838094 source:d:\cppworkspace\logo_detection\logo_detection_dev\scr\logodetector.cpp
+	"LogoDetector.h"
+	"VideoFileReader.h"
+	<opencv/cv.h>
+
+1334106464 source:d:\cppworkspace\logo_detection\logo_detection_dev\scr\logoletsimulator.cpp
+	"LogoletSimulator.h"
+	"dataEntry.h"
+	"utils.h"
+	<log4cplus/logger.h>
+	<iostream>
+
+1335431522 source:d:\cppworkspace\logo_detection\logo_detection_dev\scr\logomatch.cpp
+	"LogoMatch.h"
+	<log4cplus/logger.h>
+
+1366690416 source:d:\cppworkspace\logo_detection\logo_detection_dev\scr\main.cpp
+	<log4cplus/configurator.h>
+	<log4cplus/logger.h>
+	"globals.h"
+	"utils.h"
+	<UnitTest++.h>
+	"BasicLogoDetector.h"
+	<opencv/highgui.h>
+
+1275037612 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\configurator.h
+	<log4cplus/config.hxx>
+	<log4cplus/appender.h>
+	<log4cplus/hierarchy.h>
+	<log4cplus/logger.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/property.h>
+	<map>
+
+1250558510 d:\cppworkspace\logo_detection\logo_detection_dev\vendor\log4cplus\include\log4cplus\hierarchy.h
+	<log4cplus/config.hxx>
+	<log4cplus/logger.h>
+	<log4cplus/helpers/logloguser.h>
+	<log4cplus/helpers/pointer.h>
+	<log4cplus/helpers/threads.h>
+	<map>
+	<memory>
+	<vector>
+
+1335190702 source:d:\cppworkspace\logo_detection\logo_detection_dev\scr\phash.cpp
+	"pHash.h"
+	"config.h"
+	"cimgffmpeg.h"
+	<pthread.h>
+
+1335167674 source:d:\cppworkspace\logo_detection\logo_detection_dev\scr\utils.cpp
+	"utils.h"
+	"globals.h"
+	<log4cplus/logger.h>
+	<fstream>
+	<dirent.h>
+
+1335187852 source:d:\cppworkspace\logo_detection\logo_detection_dev\scr\videofilereader.cpp
+	"VideoFileReader.h"
+	<log4cplus/logger.h>
+	<opencv/cv.h>
+	<string>
+
+1337215646 source:d:\cppworkspace\logo_detection\logo_detection_dev\test\test_advancedlogomatch.cpp
+	"UnitTest++.h"
+	"AdvancedLogoMatch.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<log4cplus/logger.h>
+	<utility>
+	<string>
+
+1334106992 source:d:\cppworkspace\logo_detection\logo_detection_dev\test\test_logoletsimulator.cpp
+	"UnitTest++.h"
+	"LogoletSimulator.h"
+	"utils.h"
+	"dataEntry.h"
+	<opencv/highgui.h>
+
+1334108284 source:d:\cppworkspace\logo_detection\logo_detection_dev\test\test_neuralnetwork.cpp
+	"UnitTest++.h"
+	"neuralNetwork.h"
+	"dataEntry.h"
+	"InputData.h"
+	<vector>
+
+1335163386 source:d:\cppworkspace\logo_detection\logo_detection_dev\test\test_utils.cpp
+	"UnitTest++.h"
+	"utils.h"
+	"pHash.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<iostream>
+	<string>
+	<vector>
+	<assert.h>
+	<log4cplus/logger.h>
+

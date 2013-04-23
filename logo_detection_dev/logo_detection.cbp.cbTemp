@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="logo_detection" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/logo_detection" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../logo_detection_dev" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/logo_detection" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../logo_detection_dev" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+			<Target title="UnitTest">
+				<Option output="bin/UnitTest/logo_detection" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../logo_detection_dev" />
+				<Option object_output="obj/UnitTest/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-DUNIT_TEST" />
+					<Add directory="vendor/UnitTest++/scr" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="vendor\UnitTest++\lib\libUnitTest++.a" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="vendor/opencv/include" />
+			<Add directory="include" />
+			<Add directory="vendor/log4cplus/include" />
+		</Compiler>
+		<Linker>
+			<Add option="-Wl,--enable-auto-import" />
+			<Add option="-lliblog4cplus-1-0-4" />
+			<Add option="-lgdi32" />
+			<Add library="vendor\opencv\lib\libopencv_calib3d231.dll.a" />
+			<Add library="vendor\opencv\lib\libopencv_contrib231.dll.a" />
+			<Add library="vendor\opencv\lib\libopencv_core231.dll.a" />
+			<Add library="vendor\opencv\lib\libopencv_features2d231.dll.a" />
+			<Add library="vendor\opencv\lib\libopencv_flann231.dll.a" />
+			<Add library="vendor\opencv\lib\libopencv_gpu231.dll.a" />
+			<Add library="vendor\opencv\lib\libopencv_highgui231.dll.a" />
+			<Add library="vendor\opencv\lib\libopencv_imgproc231.dll.a" />
+			<Add library="vendor\opencv\lib\libopencv_legacy231.dll.a" />
+			<Add library="vendor\opencv\lib\libopencv_ml231.dll.a" />
+			<Add library="vendor\opencv\lib\libopencv_objdetect231.dll.a" />
+			<Add library="vendor\opencv\lib\libopencv_video231.dll.a" />
+			<Add library="vendor\log4cplus\lib\liblog4cplus.a" />
+			<Add directory="vendor/opencv/bin" />
+			<Add directory="vendor/log4cplus/bin" />
+		</Linker>
+		<Unit filename="include/AdvancedLogoMatch.h" />
+		<Unit filename="include/BasicLogoDetector.h" />
+		<Unit filename="include/BayersClassifier.h" />
+		<Unit filename="include/CImg.h" />
+		<Unit filename="include/DfDetector.h" />
+		<Unit filename="include/FeatureDetector.h" />
+		<Unit filename="include/InputData.h" />
+		<Unit filename="include/LogoDetector.h" />
+		<Unit filename="include/LogoMatch.h" />
+		<Unit filename="include/LogoletSimulator.h" />
+		<Unit filename="include/VideoFileReader.h" />
+		<Unit filename="include/VideoReader.h" />
+		<Unit filename="include/dataEntry.h" />
+		<Unit filename="include/globals.h" />
+		<Unit filename="include/neuralNetwork.h" />
+		<Unit filename="include/pHash.h" />
+		<Unit filename="include/utils.h" />
+		<Unit filename="scr/AdvancedLogoMatch.cpp" />
+		<Unit filename="scr/BasicLogoDetector.cpp" />
+		<Unit filename="scr/BayersClassifier.cpp" />
+		<Unit filename="scr/DfDetector.cpp" />
+		<Unit filename="scr/FeatureDetector.cpp" />
+		<Unit filename="scr/LogoDetector.cpp" />
+		<Unit filename="scr/LogoMatch.cpp" />
+		<Unit filename="scr/LogoletSimulator.cpp" />
+		<Unit filename="scr/VideoFileReader.cpp" />
+		<Unit filename="scr/globals.cpp" />
+		<Unit filename="scr/main.cpp" />
+		<Unit filename="scr/pHash.cpp" />
+		<Unit filename="scr/utils.cpp" />
+		<Unit filename="test/test_AdvancedLogoMatch.cpp" />
+		<Unit filename="test/test_LogoletSimulator.cpp" />
+		<Unit filename="test/test_neuralNetwork.cpp" />
+		<Unit filename="test/test_utils.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
